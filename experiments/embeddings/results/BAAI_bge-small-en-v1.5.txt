@@ -1,0 +1,145 @@
+Model: BAAI/bge-small-en-v1.5
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.016 s
+Cosine similarity : 0.7644
+Coverage: 0.25
+Most similar fragment:
+IV
+La ley se adecua a los principios de buena regulación previstos en el artículo 129 de 
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas.
+De este modo, se cumple con el principio de necesidad y eficacia, plenamente 
+justificado por la relevancia social y económica de los retos en materia de vivienda y la 
+adecuación de las medidas y disposiciones contenidas en la ley dirigidas a abordarlos 
+sobre la base de la necesaria cooperación interadministrativa. Igualmente, se da 
+cumplimiento a los principios de seguridad jurídica, proporcionalidad y eficiencia, 
+destacándose que las medidas que incorpora son congruentes con el ordenamiento 
+jurídico e incorporan la mejor alternativa posible para la consecución de los objetivos 
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los t
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.018 s
+Cosine similarity : 0.7277
+Coverage: 0.25
+Most similar fragment:
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el 
+requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
+acción de los servicios específicos de intermediación de la propia entidad, que se 
+acreditará en los términos del apartado anterior.»
+Siete. Se modifica el artículo 675, que queda redactado como sigue:
+«Artículo 675. Posesión judicial y ocupantes del inmueble.
+1. Si el adquirente lo solicitara, se le pondrá en posesión del inmueble que no 
+se hallare ocupado.
+2. Si el inmueble estuviera ocupado, el Letrado de la Administración de 
+Justicia acordará de inmediato el lanzamiento cuando el Tribunal haya resuelto, 
+con fijación de día y hora exacta y con arreglo a lo previsto en el apartado 2 del 
+artículo 661, que el ocupante u ocupantes no tienen derecho a permanecer en él. 
+Los ocupantes desalojados podrán ejercitar los derechos que crean asistirles en el 
+juicio que corresponda.
+Cuando, estando el inmueble ocupado, no se hubi
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.014 s
+Cosine similarity : 0.7468
+Coverage: 0.5
+Most similar fragment:
+El desarrollo de las actuaciones previstas en las letras c) y f) podrán servir para 
+atender a los trámites de intermediación y conciliación previos a la presentación de la 
+demanda, así como a la atención a las personas y hogares sujetos a vulnerabilidad en 
+los procedimientos recogidos en los artículos 439, 655 bis y 685 de la Ley 1/2000, de 7 
+de enero, de Enjuiciamiento Civil.
+3. Con la finalidad de evitar la especulación, además de las limitaciones 
+establecidas en esta ley para la vivienda protegida, los planes estatales podrán 
+establecer en la aplicación de sus programas medidas para redistribuir socialmente el 
+beneficio obtenido, en su caso, como consecuencia de la enajenación, dentro del límite 
+temporal que dichos planes establezcan, de viviendas que hayan obtenido ayudas 
+públicas para la realización de obras de rehabilitación, regeneración y renovación urbana 
+o rural, ya sea mediante la devolución de las ayudas, u otras medidas que se 
+establezcan.
+4. Corresponde al Gobi
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.017 s
+Cosine similarity : 0.7319
+Coverage: 0.6667
+Most similar fragment:
+El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del 
+impuesto cuando el periodo de desocupación sea superior a tres años, pudiendo 
+modularse en función del periodo de tiempo de desocupación.
+Además, los ayuntamientos podrán aumentar el porcentaje de recargo que 
+corresponda con arreglo a lo señalado anteriormente en hasta 50 puntos 
+porcentuales adicionales en caso de inmuebles pertenecientes a titulares de dos o 
+más inmuebles de uso residencial que se encuentren desocupados en el mismo 
+término municipal.
+En todo caso se considerarán justificadas las siguientes causas: el traslado 
+temporal por razones laborales o de formación, el cambio de domicilio por 
+situación de dependencia o razones de salud o emergencia social, inmuebles 
+destinados a usos de vivienda de segunda residencia con un máximo de cuatro 
+años de desocupación continuada, inmuebles sujetos a actuaciones de obra o 
+rehabilitación, u otras circunstancias que imposibiliten su ocupación efectiva, que 
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.019 s
+Cosine similarity : 0.7403
+Coverage: 0.2727
+Most similar fragment:
+IV
+La ley se adecua a los principios de buena regulación previstos en el artículo 129 de 
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas.
+De este modo, se cumple con el principio de necesidad y eficacia, plenamente 
+justificado por la relevancia social y económica de los retos en materia de vivienda y la 
+adecuación de las medidas y disposiciones contenidas en la ley dirigidas a abordarlos 
+sobre la base de la necesaria cooperación interadministrativa. Igualmente, se da 
+cumplimiento a los principios de seguridad jurídica, proporcionalidad y eficiencia, 
+destacándose que las medidas que incorpora son congruentes con el ordenamiento 
+jurídico e incorporan la mejor alternativa posible para la consecución de los objetivos 
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los t
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.016 s
+Cosine similarity : 0.7381
+Coverage: 0.3636
+Most similar fragment:
+IV
+La ley se adecua a los principios de buena regulación previstos en el artículo 129 de 
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas.
+De este modo, se cumple con el principio de necesidad y eficacia, plenamente 
+justificado por la relevancia social y económica de los retos en materia de vivienda y la 
+adecuación de las medidas y disposiciones contenidas en la ley dirigidas a abordarlos 
+sobre la base de la necesaria cooperación interadministrativa. Igualmente, se da 
+cumplimiento a los principios de seguridad jurídica, proporcionalidad y eficiencia, 
+destacándose que las medidas que incorpora son congruentes con el ordenamiento 
+jurídico e incorporan la mejor alternativa posible para la consecución de los objetivos 
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los t
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.018 s
+Cosine similarity : 0.7306
+Coverage: 0.3333
+Most similar fragment:
+2. En las actuaciones de reforma o renovación de la urbanización en suelo 
+urbanizado establecidas en el artículo 7 del texto refundido de la Ley de Suelo y 
+Rehabilitación Urbana, aprobado por Real Decreto Legislativo 7/2015, de 30 de octubre, 
+que afecten a entornos residenciales, se buscarán fórmulas que aseguren la cohesión 
+territorial y atiendan a la realidad social y económica de los hogares residentes, en los 
+términos establecidos por la legislación sobre ordenación territorial y urbanística de las 
+administraciones competentes.
+3. En la regulación de los usos en entornos residenciales en el medio urbano, la 
+legislación sobre ordenación territorial y urbanística establecerá instrumentos efectivos 
+para asegurar el equilibrio, preservar la calidad de vida y el acceso a la vivienda, y 
+asegurar el cumplimiento del principio de desarrollo territorial y urbano sostenible 
+recogido en el artículo 3 del texto refundido de la Ley de Suelo y Rehabilitación Urbana, 
+aprobado por Real 

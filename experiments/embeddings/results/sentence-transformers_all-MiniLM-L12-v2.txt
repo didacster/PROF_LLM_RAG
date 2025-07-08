@@ -1,0 +1,153 @@
+Model: sentence-transformers/all-MiniLM-L12-v2
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.017 s
+Cosine similarity : 0.5472
+Coverage: 0.25
+Most similar fragment:
+alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
+siguientes objetivos específicos:
+a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
+entidades del tercer sector, a las personas y familias con menos recursos, evitando 
+desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
+entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
+b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
+mercado residencial tensionado.
+c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
+vivienda social o asequible.
+En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
+para atender las necesidades de los distintos entornos territoriales y, específicamente, 
+las de los pequeños municipios afectados por procesos de envejecimiento o 
+despoblación.
+5. En el caso de que las administraciones competent
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.019 s
+Cosine similarity : 0.514
+Coverage: 0.25
+Most similar fragment:
+contenidas en el mismo, ya sea por su complejidad de gestión o por la naturaleza de lo 
+conveniado entre las partes.
+Artículo 21. Órganos de Cooperación en materia de vivienda y suelo.
+Se establecen los siguientes órganos de cooperación en materia de vivienda y suelo:
+a) Conferencia Sectorial de Vivienda y Suelo: es el máximo órgano de cooperación 
+de estas materias entre el Estado, las comunidades autónomas y las ciudades de Ceuta 
+y Melilla. Se reunirá al menos una vez al año y será presidida por el titular del Ministerio 
+de Transportes, Movilidad y Agenda Urbana.
+b) Comisión Multilateral de Vivienda y Suelo: Será presidida por el titular de la 
+Secretaría General de Agenda Urbana y Vivienda, y reunirá a los titulares de las 
+Direcciones Generales competentes en estas materias. Se reunirá al menos una vez al 
+año, y en ella se evaluará el cumplimiento de los acuerdos y directrices emanados de la 
+Conferencia Sectorial, y se propondrán los asuntos que se acuerden elevar a ese 
+Órgano
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.016 s
+Cosine similarity : 0.4436
+Coverage: 0.4167
+Most similar fragment:
+objetivos generales de esta política, y específicamente, respecto a aquellas zonas 
+declaradas con arreglo a esta ley de mercado residencial tensionado:
+a) Adoptará los acuerdos necesarios que establezcan condiciones específicas en 
+cuanto al destino, tipología, destinatarios u otras especificidades en los diferentes 
+negocios patrimoniales de la Administración General del Estado y sus Organismos 
+Públicos.
+b) Analizará el patrimonio de la Administración General del Estado, y de los 
+Organismos Públicos adscritos a ella, con el objeto de identificar posibles oportunidades 
+de suelo u otros inmuebles susceptibles de reutilización para uso residencial.
+c) Promover los acuerdos necesarios entre los distintos Departamentos 
+Ministeriales, y específicamente entre el Ministerio de Transportes, Movilidad y Agenda 
+Urbana, competente en materia de política de vivienda, y los Organismos Públicos 
+competentes en la gestión patrimonial de los bienes inmuebles de los Ministerios de 
+Defensa e Inte
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.017 s
+Cosine similarity : 0.4932
+Coverage: 0.6667
+Most similar fragment:
+d) Información jurídica del inmueble: la identificación registral de la finca, con la 
+referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
+participación fijada en el título de propiedad.
+e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
+circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
+f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
+ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
+histórico, se aportará información sobre el grado de protección y las condiciones y 
+limitaciones para las intervenciones de reforma o rehabilitación.
+g) Cualquier otra información que pueda ser relevante para la persona interesada 
+en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
+territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
+relacionados con la misma.
+2. En los mismos
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.014 s
+Cosine similarity : 0.5296
+Coverage: 0.2727
+Most similar fragment:
+I. DISPOSICIONES GENERALES
+JEFATURA DEL ESTADO
+12203 Ley 12/2023, de 24 de mayo, por el derecho a la vivienda.
+FELIPE VI
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la 
+siguiente ley:
+ÍNDICE
+Preámbulo.
+Título preliminar. Disposiciones generales.
+Artículo 1. Objeto de la ley.
+Artículo 2. Fines de las políticas públicas de vivienda.
+Artículo 3. Definiciones.
+Artículo 4. Servicios de interés general.
+Artículo 5. Acción pública.
+Artículo 6. Principio de igualdad y no discriminación en la vivienda.
+Título I. Función social y régimen jurídico de la vivienda.
+Artículo 7. Principios rectores de la garantía de la función social de la vivienda.
+Capítulo I. Estatuto Básico del Ciudadano.
+Artículo 8. Derechos del ciudadano en relación con la vivienda.
+Artículo 9. Deberes del ciudadano en relación con la vivienda.
+Capítulo II. Régimen jurídico básico del derecho de propiedad de la vivienda.
+Artículo 10. Conteni
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.017 s
+Cosine similarity : 0.4466
+Coverage: 0.4545
+Most similar fragment:
+objetivos generales de esta política, y específicamente, respecto a aquellas zonas 
+declaradas con arreglo a esta ley de mercado residencial tensionado:
+a) Adoptará los acuerdos necesarios que establezcan condiciones específicas en 
+cuanto al destino, tipología, destinatarios u otras especificidades en los diferentes 
+negocios patrimoniales de la Administración General del Estado y sus Organismos 
+Públicos.
+b) Analizará el patrimonio de la Administración General del Estado, y de los 
+Organismos Públicos adscritos a ella, con el objeto de identificar posibles oportunidades 
+de suelo u otros inmuebles susceptibles de reutilización para uso residencial.
+c) Promover los acuerdos necesarios entre los distintos Departamentos 
+Ministeriales, y específicamente entre el Ministerio de Transportes, Movilidad y Agenda 
+Urbana, competente en materia de política de vivienda, y los Organismos Públicos 
+competentes en la gestión patrimonial de los bienes inmuebles de los Ministerios de 
+Defensa e Inte
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.017 s
+Cosine similarity : 0.4689
+Coverage: 0.3333
+Most similar fragment:
+d) Información jurídica del inmueble: la identificación registral de la finca, con la 
+referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
+participación fijada en el título de propiedad.
+e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
+circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
+f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
+ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
+histórico, se aportará información sobre el grado de protección y las condiciones y 
+limitaciones para las intervenciones de reforma o rehabilitación.
+g) Cualquier otra información que pueda ser relevante para la persona interesada 
+en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
+territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
+relacionados con la misma.
+2. En los mismos

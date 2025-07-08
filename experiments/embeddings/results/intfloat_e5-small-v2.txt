@@ -1,0 +1,148 @@
+Model: intfloat/e5-small-v2
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.015 s
+Cosine similarity : 0.8254
+Coverage: 0.25
+Most similar fragment:
+alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
+siguientes objetivos específicos:
+a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
+entidades del tercer sector, a las personas y familias con menos recursos, evitando 
+desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
+entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
+b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
+mercado residencial tensionado.
+c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
+vivienda social o asequible.
+En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
+para atender las necesidades de los distintos entornos territoriales y, específicamente, 
+las de los pequeños municipios afectados por procesos de envejecimiento o 
+despoblación.
+5. En el caso de que las administraciones competent
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.016 s
+Cosine similarity : 0.8228
+Coverage: 0.4167
+Most similar fragment:
+presentada antes de que se haya iniciado un procedimiento de verificación de 
+datos, de comprobación limitada o de inspección que incluya en su objeto la 
+comprobación de tales rendimientos.
+En ningún caso resultarán de aplicación las reducciones respecto de la parte 
+de los rendimientos netos positivos derivada de ingresos no incluidos o de gastos 
+indebidamente deducidos en la autoliquidación del contribuyente y que se 
+regularicen en alguno de los procedimientos citados en el párrafo anterior, incluso 
+cuando esas circunstancias hayan sido declaradas o aceptadas por el 
+contribuyente durante la tramitación del procedimiento. Tampoco resultarán de 
+aplicación las reducciones en relación con aquellos contratos de arrendamiento 
+que incumplan lo dispuesto en el apartado 6 del artículo 17 de la Ley de 
+Arrendamientos Urbanos.
+Las zonas de mercado residencial tensionado a las que podrá resultar de 
+aplicación lo previsto en este apartado serán las recogidas en la resolución que, 
+de acue
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.017 s
+Cosine similarity : 0.8595
+Coverage: 0.4167
+Most similar fragment:
+siempre que, cuando se trate de actuaciones de nueva urbanización, se garantice 
+en el instrumento de ordenación el cumplimiento íntegro de la reserva dentro de su 
+ámbito territorial de aplicación y una distribución de su localización respetuosa con 
+el principio de cohesión social.»
+Disposición final quinta.  Modificación de la Ley 1/2000, de 7 de enero, de 
+Enjuiciamiento Civil.
+La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada como sigue:
+Uno. Se modifica el apartado 4 del artículo 150, que queda redactado del siguiente 
+modo:
+«4. Cuando la notificación de la resolución contenga fijación de fecha para el 
+lanzamiento de quienes ocupan una vivienda, se dará traslado a las 
+Administraciones Públicas competentes en materia de vivienda, asistencia social, 
+evaluación e información de situaciones de necesidad social y atención inmediata 
+a personas en situación o riesgo de exclusión social, por si procediera su 
+actuación.»
+Dos. Se añaden nuevos apartados 6 y 7 en 
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.019 s
+Cosine similarity : 0.8302
+Coverage: 0.6667
+Most similar fragment:
+d) Información jurídica del inmueble: la identificación registral de la finca, con la 
+referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
+participación fijada en el título de propiedad.
+e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
+circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
+f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
+ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
+histórico, se aportará información sobre el grado de protección y las condiciones y 
+limitaciones para las intervenciones de reforma o rehabilitación.
+g) Cualquier otra información que pueda ser relevante para la persona interesada 
+en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
+territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
+relacionados con la misma.
+2. En los mismos
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.019 s
+Cosine similarity : 0.8388
+Coverage: 0.3636
+Most similar fragment:
+presentada antes de que se haya iniciado un procedimiento de verificación de 
+datos, de comprobación limitada o de inspección que incluya en su objeto la 
+comprobación de tales rendimientos.
+En ningún caso resultarán de aplicación las reducciones respecto de la parte 
+de los rendimientos netos positivos derivada de ingresos no incluidos o de gastos 
+indebidamente deducidos en la autoliquidación del contribuyente y que se 
+regularicen en alguno de los procedimientos citados en el párrafo anterior, incluso 
+cuando esas circunstancias hayan sido declaradas o aceptadas por el 
+contribuyente durante la tramitación del procedimiento. Tampoco resultarán de 
+aplicación las reducciones en relación con aquellos contratos de arrendamiento 
+que incumplan lo dispuesto en el apartado 6 del artículo 17 de la Ley de 
+Arrendamientos Urbanos.
+Las zonas de mercado residencial tensionado a las que podrá resultar de 
+aplicación lo previsto en este apartado serán las recogidas en la resolución que, 
+de acue
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.018 s
+Cosine similarity : 0.8174
+Coverage: 0.4545
+Most similar fragment:
+alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
+siguientes objetivos específicos:
+a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
+entidades del tercer sector, a las personas y familias con menos recursos, evitando 
+desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
+entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
+b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
+mercado residencial tensionado.
+c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
+vivienda social o asequible.
+En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
+para atender las necesidades de los distintos entornos territoriales y, específicamente, 
+las de los pequeños municipios afectados por procesos de envejecimiento o 
+despoblación.
+5. En el caso de que las administraciones competent
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.018 s
+Cosine similarity : 0.8411
+Coverage: 0.3333
+Most similar fragment:
+d) Información jurídica del inmueble: la identificación registral de la finca, con la 
+referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
+participación fijada en el título de propiedad.
+e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
+circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
+f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
+ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
+histórico, se aportará información sobre el grado de protección y las condiciones y 
+limitaciones para las intervenciones de reforma o rehabilitación.
+g) Cualquier otra información que pueda ser relevante para la persona interesada 
+en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
+territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
+relacionados con la misma.
+2. En los mismos

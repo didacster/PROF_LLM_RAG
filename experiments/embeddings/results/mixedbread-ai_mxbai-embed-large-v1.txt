@@ -1,0 +1,143 @@
+Model: mixedbread-ai/mxbai-embed-large-v1
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.116 s
+Cosine similarity : 0.6892
+Coverage: 0.25
+Most similar fragment:
+artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
+parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
+situación de vulnerabilidad económica.
+Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
+ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
+meses, emitido, previo consentimiento de éste, por los servicios de las 
+Administraciones autonómicas y locales competentes en materia de vivienda, 
+asistencia social, evaluación e información de situaciones de necesidad social y 
+atención inmediata a personas en situación o riesgo de exclusión social que hayan 
+sido específicamente designados conforme a la legislación y normativa 
+autonómica en materia de vivienda.
+Este requisito también podrá cumplirse mediante:
+1.º La declaración responsable emitida por la parte actora de que ha acudido 
+a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
+antelac
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.179 s
+Cosine similarity : 0.6805
+Coverage: 0.25
+Most similar fragment:
+artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
+parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
+situación de vulnerabilidad económica.
+Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
+ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
+meses, emitido, previo consentimiento de éste, por los servicios de las 
+Administraciones autonómicas y locales competentes en materia de vivienda, 
+asistencia social, evaluación e información de situaciones de necesidad social y 
+atención inmediata a personas en situación o riesgo de exclusión social que hayan 
+sido específicamente designados conforme a la legislación y normativa 
+autonómica en materia de vivienda.
+Este requisito también podrá cumplirse mediante:
+1.º La declaración responsable emitida por la parte actora de que ha acudido 
+a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
+antelac
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.132 s
+Cosine similarity : 0.7471
+Coverage: 0.4167
+Most similar fragment:
+artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
+parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
+situación de vulnerabilidad económica.
+Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
+ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
+meses, emitido, previo consentimiento de éste, por los servicios de las 
+Administraciones autonómicas y locales competentes en materia de vivienda, 
+asistencia social, evaluación e información de situaciones de necesidad social y 
+atención inmediata a personas en situación o riesgo de exclusión social que hayan 
+sido específicamente designados conforme a la legislación y normativa 
+autonómica en materia de vivienda.
+Este requisito también podrá cumplirse mediante:
+1.º La declaración responsable emitida por la parte actora de que ha acudido 
+a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
+antelac
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.135 s
+Cosine similarity : 0.694
+Coverage: 0.5833
+Most similar fragment:
+podrá modificarse como tampoco podrán descalificarse las viviendas sobre dichos 
+suelos.
+Pero también es importante destacar la introducción del concepto de vivienda 
+asequible incentivada, como figura necesaria para incrementar la oferta a corto plazo. Se 
+trata de un novedoso concepto que se suma a la vivienda protegida como mecanismo 
+efectivo para incrementar la oferta de vivienda a precios asequibles, considerándose 
+como aquella vivienda de titularidad privada, incluidas las entidades del tercer sector y 
+de la economía social, a cuyo titular la Administración competente otorga beneficios de 
+carácter urbanístico, fiscal, o de cualquier otro tipo, a cambio de destinarlas a residencia 
+habitual en régimen de alquiler a precios reducidos, o de cualquier otra fórmula de 
+tenencia temporal, de personas cuyo nivel de ingresos no les permite acceder a una 
+vivienda a precio de mercado. De esta forma, se busca la implicación de todos los 
+agentes públicos, privados y tercer sector en la
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.184 s
+Cosine similarity : 0.7141
+Coverage: 0.2727
+Most similar fragment:
+En tal supuesto, podrá establecerse la devolución de todas o parte de las ayudas 
+percibidas en caso de enajenación de la vivienda con posterioridad a su descalificación, 
+conforme se establezca en su normativa reguladora.
+En todo caso, se considerará causa justificada a los efectos anteriores, la promoción 
+de viviendas protegidas en suelos cuya calificación urbanística no impusiera dicho 
+destino y no hubiesen contado con ayudas públicas para su promoción.
+e) Su venta o alquiler estarán sujetos a la previa autorización de la Comunidad 
+Autónoma mientras la vivienda siga sujeta al régimen de protección pública que 
+corresponda y sólo podrá otorgarse tal autorización en favor de personas que cumplan 
+los requisitos previstos en la normativa correspondiente para acceder a una vivienda 
+protegida, cuando cumplan las siguientes condiciones:
+1.º Se efectúe prioritariamente a favor de personas o grupos de personas 
+demandantes inscritas en los registros públicos previstos al efecto por la n
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.126 s
+Cosine similarity : 0.6754
+Coverage: 0.4545
+Most similar fragment:
+n) Adoptar medidas para identificar y prevenir la retención especulativa, la 
+segregación residencial, los procesos de sobreocupación, la exclusión residencial grave 
+como el chabolismo o el sinhogarismo y la degradación de las condiciones del parque de 
+viviendas existente y de su entorno, para permitir el desarrollo de su función residencial y 
+la mejora de la calidad de vida.
+ñ) Garantizar la igualdad, desde la perspectiva de género, edad, capacidad y 
+perspectiva territorial, en todas las políticas y acciones en materia de vivienda, a todos 
+los niveles, y en todas sus fases de planificación, ejecución y evaluación.
+o) Controlar y garantizar el uso responsable de recursos públicos suficientes, para 
+cumplir los objetivos de la política de vivienda por parte de las Administraciones 
+competentes y aplicar, en la gestión del parque público, criterios de corresponsabilidad 
+de sus ocupantes.
+p) Priorizar la atención e información a familias, hogares y unidades de convivencia 
+con menor
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.142 s
+Cosine similarity : 0.6707
+Coverage: 0.4444
+Most similar fragment:
+El desarrollo de las actuaciones previstas en las letras c) y f) podrán servir para 
+atender a los trámites de intermediación y conciliación previos a la presentación de la 
+demanda, así como a la atención a las personas y hogares sujetos a vulnerabilidad en 
+los procedimientos recogidos en los artículos 439, 655 bis y 685 de la Ley 1/2000, de 7 
+de enero, de Enjuiciamiento Civil.
+3. Con la finalidad de evitar la especulación, además de las limitaciones 
+establecidas en esta ley para la vivienda protegida, los planes estatales podrán 
+establecer en la aplicación de sus programas medidas para redistribuir socialmente el 
+beneficio obtenido, en su caso, como consecuencia de la enajenación, dentro del límite 
+temporal que dichos planes establezcan, de viviendas que hayan obtenido ayudas 
+públicas para la realización de obras de rehabilitación, regeneración y renovación urbana 
+o rural, ya sea mediante la devolución de las ayudas, u otras medidas que se 
+establezcan.
+4. Corresponde al Gobi

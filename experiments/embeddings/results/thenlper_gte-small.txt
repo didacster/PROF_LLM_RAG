@@ -1,0 +1,146 @@
+Model: thenlper/gte-small
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.013 s
+Cosine similarity : 0.8714
+Coverage: 0.25
+Most similar fragment:
+IV
+La ley se adecua a los principios de buena regulación previstos en el artículo 129 de 
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas.
+De este modo, se cumple con el principio de necesidad y eficacia, plenamente 
+justificado por la relevancia social y económica de los retos en materia de vivienda y la 
+adecuación de las medidas y disposiciones contenidas en la ley dirigidas a abordarlos 
+sobre la base de la necesaria cooperación interadministrativa. Igualmente, se da 
+cumplimiento a los principios de seguridad jurídica, proporcionalidad y eficiencia, 
+destacándose que las medidas que incorpora son congruentes con el ordenamiento 
+jurídico e incorporan la mejor alternativa posible para la consecución de los objetivos 
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los t
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.019 s
+Cosine similarity : 0.8601
+Coverage: 0.25
+Most similar fragment:
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el 
+requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
+acción de los servicios específicos de intermediación de la propia entidad, que se 
+acreditará en los términos del apartado anterior.»
+Siete. Se modifica el artículo 675, que queda redactado como sigue:
+«Artículo 675. Posesión judicial y ocupantes del inmueble.
+1. Si el adquirente lo solicitara, se le pondrá en posesión del inmueble que no 
+se hallare ocupado.
+2. Si el inmueble estuviera ocupado, el Letrado de la Administración de 
+Justicia acordará de inmediato el lanzamiento cuando el Tribunal haya resuelto, 
+con fijación de día y hora exacta y con arreglo a lo previsto en el apartado 2 del 
+artículo 661, que el ocupante u ocupantes no tienen derecho a permanecer en él. 
+Los ocupantes desalojados podrán ejercitar los derechos que crean asistirles en el 
+juicio que corresponda.
+Cuando, estando el inmueble ocupado, no se hubi
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.015 s
+Cosine similarity : 0.8727
+Coverage: 0.4167
+Most similar fragment:
+7. En los casos de los números 1.º, 2.º, 4.º y 7.º del apartado 1 del 
+artículo 250, en el caso de que la parte actora tenga la condición de gran tenedora 
+en los términos previstos por el apartado anterior, el inmueble objeto de demanda 
+constituya vivienda habitual de la persona ocupante y la misma se encuentre en 
+situación de vulnerabilidad económica conforme lo previsto igualmente en el 
+apartado anterior, no se admitirán las demandas en las que no se acredite que la 
+parte actora se ha sometido al procedimiento de conciliación o intermediación que 
+a tal efecto establezcan las Administraciones Públicas competentes, en base al 
+análisis de las circunstancias de ambas partes y de las posibles ayudas y 
+subvenciones existentes en materia de vivienda conforme a lo dispuesto en la 
+legislación y normativa autonómica en materia de vivienda.
+El requisito anterior podrá acreditarse mediante alguna de las siguientes 
+formas:
+1.º La declaración responsable emitida por la parte actora de qu
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.018 s
+Cosine similarity : 0.8717
+Coverage: 0.6667
+Most similar fragment:
+El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del 
+impuesto cuando el periodo de desocupación sea superior a tres años, pudiendo 
+modularse en función del periodo de tiempo de desocupación.
+Además, los ayuntamientos podrán aumentar el porcentaje de recargo que 
+corresponda con arreglo a lo señalado anteriormente en hasta 50 puntos 
+porcentuales adicionales en caso de inmuebles pertenecientes a titulares de dos o 
+más inmuebles de uso residencial que se encuentren desocupados en el mismo 
+término municipal.
+En todo caso se considerarán justificadas las siguientes causas: el traslado 
+temporal por razones laborales o de formación, el cambio de domicilio por 
+situación de dependencia o razones de salud o emergencia social, inmuebles 
+destinados a usos de vivienda de segunda residencia con un máximo de cuatro 
+años de desocupación continuada, inmuebles sujetos a actuaciones de obra o 
+rehabilitación, u otras circunstancias que imposibiliten su ocupación efectiva, que 
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.015 s
+Cosine similarity : 0.8807
+Coverage: 0.3636
+Most similar fragment:
+Disposición final primera.  Medidas de contención de precios en la regulación de los 
+contratos de arrendamiento de vivienda.
+La Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, queda modificada 
+como sigue:
+Uno. El artículo 10 queda redactado en los siguientes términos:
+«Artículo 10. Prórroga del contrato.
+1. Si llegada la fecha de vencimiento del contrato, o de cualquiera de sus 
+prórrogas, una vez transcurridos como mínimo cinco años de duración de aquel, o 
+siete años si el arrendador fuese persona jurídica, ninguna de las partes hubiese 
+notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el 
+caso del arrendador y al menos con dos meses de antelación en el caso del 
+arrendatario, su voluntad de no renovarlo, el contrato se prorrogará 
+obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que 
+el arrendatario manifieste al arrendador con un mes de antelación a la fecha de 
+terminación de cualquiera de las anualidades, su
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.018 s
+Cosine similarity : 0.8584
+Coverage: 0.3636
+Most similar fragment:
+IV
+La ley se adecua a los principios de buena regulación previstos en el artículo 129 de 
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas.
+De este modo, se cumple con el principio de necesidad y eficacia, plenamente 
+justificado por la relevancia social y económica de los retos en materia de vivienda y la 
+adecuación de las medidas y disposiciones contenidas en la ley dirigidas a abordarlos 
+sobre la base de la necesaria cooperación interadministrativa. Igualmente, se da 
+cumplimiento a los principios de seguridad jurídica, proporcionalidad y eficiencia, 
+destacándose que las medidas que incorpora son congruentes con el ordenamiento 
+jurídico e incorporan la mejor alternativa posible para la consecución de los objetivos 
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los t
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.017 s
+Cosine similarity : 0.8531
+Coverage: 0.3333
+Most similar fragment:
+7. En los casos de los números 1.º, 2.º, 4.º y 7.º del apartado 1 del 
+artículo 250, en el caso de que la parte actora tenga la condición de gran tenedora 
+en los términos previstos por el apartado anterior, el inmueble objeto de demanda 
+constituya vivienda habitual de la persona ocupante y la misma se encuentre en 
+situación de vulnerabilidad económica conforme lo previsto igualmente en el 
+apartado anterior, no se admitirán las demandas en las que no se acredite que la 
+parte actora se ha sometido al procedimiento de conciliación o intermediación que 
+a tal efecto establezcan las Administraciones Públicas competentes, en base al 
+análisis de las circunstancias de ambas partes y de las posibles ayudas y 
+subvenciones existentes en materia de vivienda conforme a lo dispuesto en la 
+legislación y normativa autonómica en materia de vivienda.
+El requisito anterior podrá acreditarse mediante alguna de las siguientes 
+formas:
+1.º La declaración responsable emitida por la parte actora de qu

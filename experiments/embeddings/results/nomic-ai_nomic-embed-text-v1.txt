@@ -1,0 +1,146 @@
+Model: nomic-ai/nomic-embed-text-v1
+============================================================
+
+ Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Time: 0.047 s
+Cosine similarity : 0.5423
+Coverage: 0.25
+Most similar fragment:
+objetivos generales de esta política, y específicamente, respecto a aquellas zonas 
+declaradas con arreglo a esta ley de mercado residencial tensionado:
+a) Adoptará los acuerdos necesarios que establezcan condiciones específicas en 
+cuanto al destino, tipología, destinatarios u otras especificidades en los diferentes 
+negocios patrimoniales de la Administración General del Estado y sus Organismos 
+Públicos.
+b) Analizará el patrimonio de la Administración General del Estado, y de los 
+Organismos Públicos adscritos a ella, con el objeto de identificar posibles oportunidades 
+de suelo u otros inmuebles susceptibles de reutilización para uso residencial.
+c) Promover los acuerdos necesarios entre los distintos Departamentos 
+Ministeriales, y específicamente entre el Ministerio de Transportes, Movilidad y Agenda 
+Urbana, competente en materia de política de vivienda, y los Organismos Públicos 
+competentes en la gestión patrimonial de los bienes inmuebles de los Ministerios de 
+Defensa e Inte
+
+ Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
+ Time: 0.054 s
+Cosine similarity : 0.5764
+Coverage: 0.25
+Most similar fragment:
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el 
+requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
+acción de los servicios específicos de intermediación de la propia entidad, que se 
+acreditará en los términos del apartado anterior.»
+Siete. Se modifica el artículo 675, que queda redactado como sigue:
+«Artículo 675. Posesión judicial y ocupantes del inmueble.
+1. Si el adquirente lo solicitara, se le pondrá en posesión del inmueble que no 
+se hallare ocupado.
+2. Si el inmueble estuviera ocupado, el Letrado de la Administración de 
+Justicia acordará de inmediato el lanzamiento cuando el Tribunal haya resuelto, 
+con fijación de día y hora exacta y con arreglo a lo previsto en el apartado 2 del 
+artículo 661, que el ocupante u ocupantes no tienen derecho a permanecer en él. 
+Los ocupantes desalojados podrán ejercitar los derechos que crean asistirles en el 
+juicio que corresponda.
+Cuando, estando el inmueble ocupado, no se hubi
+
+ Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
+ Time: 0.044 s
+Cosine similarity : 0.5729
+Coverage: 0.4167
+Most similar fragment:
+siempre que, cuando se trate de actuaciones de nueva urbanización, se garantice 
+en el instrumento de ordenación el cumplimiento íntegro de la reserva dentro de su 
+ámbito territorial de aplicación y una distribución de su localización respetuosa con 
+el principio de cohesión social.»
+Disposición final quinta.  Modificación de la Ley 1/2000, de 7 de enero, de 
+Enjuiciamiento Civil.
+La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada como sigue:
+Uno. Se modifica el apartado 4 del artículo 150, que queda redactado del siguiente 
+modo:
+«4. Cuando la notificación de la resolución contenga fijación de fecha para el 
+lanzamiento de quienes ocupan una vivienda, se dará traslado a las 
+Administraciones Públicas competentes en materia de vivienda, asistencia social, 
+evaluación e información de situaciones de necesidad social y atención inmediata 
+a personas en situación o riesgo de exclusión social, por si procediera su 
+actuación.»
+Dos. Se añaden nuevos apartados 6 y 7 en 
+
+ Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Time: 0.045 s
+Cosine similarity : 0.592
+Coverage: 0.5
+Most similar fragment:
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el 
+requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
+acción de los servicios específicos de intermediación de la propia entidad, que se 
+acreditará en los términos del apartado anterior.»
+Siete. Se modifica el artículo 675, que queda redactado como sigue:
+«Artículo 675. Posesión judicial y ocupantes del inmueble.
+1. Si el adquirente lo solicitara, se le pondrá en posesión del inmueble que no 
+se hallare ocupado.
+2. Si el inmueble estuviera ocupado, el Letrado de la Administración de 
+Justicia acordará de inmediato el lanzamiento cuando el Tribunal haya resuelto, 
+con fijación de día y hora exacta y con arreglo a lo previsto en el apartado 2 del 
+artículo 661, que el ocupante u ocupantes no tienen derecho a permanecer en él. 
+Los ocupantes desalojados podrán ejercitar los derechos que crean asistirles en el 
+juicio que corresponda.
+Cuando, estando el inmueble ocupado, no se hubi
+
+ Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Time: 0.043 s
+Cosine similarity : 0.5631
+Coverage: 0.3636
+Most similar fragment:
+Disposición final primera.  Medidas de contención de precios en la regulación de los 
+contratos de arrendamiento de vivienda.
+La Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, queda modificada 
+como sigue:
+Uno. El artículo 10 queda redactado en los siguientes términos:
+«Artículo 10. Prórroga del contrato.
+1. Si llegada la fecha de vencimiento del contrato, o de cualquiera de sus 
+prórrogas, una vez transcurridos como mínimo cinco años de duración de aquel, o 
+siete años si el arrendador fuese persona jurídica, ninguna de las partes hubiese 
+notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el 
+caso del arrendador y al menos con dos meses de antelación en el caso del 
+arrendatario, su voluntad de no renovarlo, el contrato se prorrogará 
+obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que 
+el arrendatario manifieste al arrendador con un mes de antelación a la fecha de 
+terminación de cualquiera de las anualidades, su
+
+ Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
+ Time: 0.045 s
+Cosine similarity : 0.5278
+Coverage: 0.4545
+Most similar fragment:
+contenidas en el mismo, ya sea por su complejidad de gestión o por la naturaleza de lo 
+conveniado entre las partes.
+Artículo 21. Órganos de Cooperación en materia de vivienda y suelo.
+Se establecen los siguientes órganos de cooperación en materia de vivienda y suelo:
+a) Conferencia Sectorial de Vivienda y Suelo: es el máximo órgano de cooperación 
+de estas materias entre el Estado, las comunidades autónomas y las ciudades de Ceuta 
+y Melilla. Se reunirá al menos una vez al año y será presidida por el titular del Ministerio 
+de Transportes, Movilidad y Agenda Urbana.
+b) Comisión Multilateral de Vivienda y Suelo: Será presidida por el titular de la 
+Secretaría General de Agenda Urbana y Vivienda, y reunirá a los titulares de las 
+Direcciones Generales competentes en estas materias. Se reunirá al menos una vez al 
+año, y en ella se evaluará el cumplimiento de los acuerdos y directrices emanados de la 
+Conferencia Sectorial, y se propondrán los asuntos que se acuerden elevar a ese 
+Órgano
+
+ Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Time: 0.043 s
+Cosine similarity : 0.5683
+Coverage: 0.2222
+Most similar fragment:
+Artículo 5. Acción pública.
+1. Los actos y disposiciones dictados en aplicación del título II, del título III y del 
+capítulo II del título IV de esta ley podrán impugnarse, además de por quienes estén 
+legitimados para ello, en los términos previstos en la Ley 39/2015, de 1 de octubre, del 
+Procedimiento Administrativo Común de las Administraciones Públicas, y en la 
+Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, por 
+las personas jurídicas sin ánimo de lucro que, mediante el ejercicio de esta acción, 
+defiendan intereses generales vinculados con la protección de la vivienda. Dicho 
+ejercicio no podrá ser contrario a la buena fe, ni constituir un abuso de derecho.
+2. A efectos de lo establecido en el artículo 31 de la Ley 29/1998, de 13 de julio, 
+reguladora de la Jurisdicción Contencioso-administrativa, el ejercicio de esta acción no 
+podrá en ningún caso comprender una pretensión de reconocimiento y restablecimiento 
+de una situación jurídica 
