@@ -1,143 +1,132 @@
 Model: mixedbread-ai/mxbai-embed-large-v1
 ============================================================
 
- Query: ¿Cuál es el objetivo principal del protocolo firmado?
- Time: 0.116 s
-Cosine similarity : 0.6892
+ Query: ¿Cuál es el objetivo del documento?
+ Time: 0.103 s
+Cosine similarity : 0.6973
+Coverage: 0.3333
+Most similar fragment:
+hubieran iniciado los trámites correspondientes en el plazo de dos meses desde 
+que presentó su solicitud, junto con justificante acreditativo de la misma.
+2.º El documento acreditativo de los servicios competentes que indique el 
+resultado del procedimiento de conciliación o intermediación, en el que se hará 
+constar la identidad de las partes, el objeto de la controversia y si alguna de las 
+partes ha rehusado participar en el procedimiento, en su caso. Este documento no 
+podrá tener una vigencia superior a tres meses.
+En el caso de que el acreedor hipotecario sea una entidad pública de vivienda 
+el requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
+acción de los servicios específicos de intermediación de la propia entidad, que se 
+acreditará en los términos del apartado anterior.»
+Nueve. Se modifica el apartado 1 del artículo 704, que queda redactado como sigue:
+«1. Cuando el inmueble cuya posesión se deba entregar fuera vivienda
+
+ Query: ¿Qué dice sobre los plazos?
+ Time: 0.103 s
+Cosine similarity : 0.6661
+Coverage: 0.2
+Most similar fragment:
+recoja en la resolución del Ministerio de Transportes, Movilidad y Agenda Urbana, 
+al haberse justificado dicha aplicación en la declaración de la zona de mercado 
+residencial tensionado.»
+Cuatro. Se modifica el apartado 1 del artículo 20, que queda redactado como sigue:
+«1. Las partes podrán pactar que los gastos generales para el adecuado 
+sostenimiento del inmueble, sus servicios, tributos, cargas y responsabilidades 
+que no sean susceptibles de individualización y que correspondan a la vivienda 
+arrendada o a sus accesorios, sean a cargo del arrendatario.
+En edificios en régimen de propiedad horizontal tales gastos serán los que 
+correspondan a la finca arrendada en función de su cuota de participación.
+En edificios que no se encuentren en régimen de propiedad horizontal, tales 
+gastos serán los que se hayan asignado a la finca arrendada en función de su 
+superficie.
+Para su validez, este pacto deberá constar por escrito y determinar el importe
+
+ Query: ¿Qué organismos participan?
+ Time: 0.098 s
+Cosine similarity : 0.6971
+Coverage: 0.0
+Most similar fragment:
+realización progresiva del derecho de todas las personas a una vivienda digna y 
+adecuada, a precios asequibles; que luchen contra todas las formas de discriminación y 
+violencia, especialmente en materia de género; que impidan los desalojos forzosos 
+arbitrarios y que se centren en las necesidades de las personas sin hogar erradicando el 
+fenómeno del sinhogarismo, de quienes padecen situaciones de vulnerabilidad, de los 
+grupos sociales con bajos ingresos y especiales dificultades y de las personas con 
+discapacidad; a la vez que propician la participación y la colaboración de las 
+comunidades y de todas las personas interesadas. Estas nuevas Agendas, tanto 
+nacional, como internacionales, muestran a los Estados y demás escalones de 
+Administración Pública la necesidad de reconocer la función social del suelo y de la 
+vivienda y su compromiso a favor de una amplia gama de opciones de creación de 
+vivienda, de promoción de diversos tipos de tenencia y de enfoques centrados, en suma,
+
+ Query: ¿Quien tiene  la competencia plena en materia de vivienda?
+ Time: 0.104 s
+Cosine similarity : 0.8103
+Coverage: 0.5556
+Most similar fragment:
+utilización de las viviendas, así como la competencia relativa a las bases del régimen 
+minero y energético (artículo 149.1.25.ª CE), puesto que el subsector vivienda es un 
+ámbito clave en relación con las medidas de eficiencia y ahorro de energía.
+Esto es, toda una pléyade de títulos competenciales, cuyo ejercicio estatal exige la 
+aprobación de normas estatales sobre la materia vivienda, sin perjuicio, naturalmente, 
+del legítimo ejercicio de las competencias exclusivas en dicha materia asumidas por las 
+Comunidades Autónomas y también por otras Administraciones públicas, particularmente 
+la municipal, a la que se atribuye como competencia propia la promoción y gestión de la 
+vivienda de protección pública con criterios de sostenibilidad financiera en virtud del 
+artículo 25.2 de la Ley 7/1985, de 2 de abril, de Bases del Régimen Local.
+III
+La presente Ley de vivienda, sobre la base de las referidas competencias estatales,
+
+ Query: ¿Qué dice sobre la sostenibilidad?
+ Time: 0.1 s
+Cosine similarity : 0.6898
+Coverage: 0.2
+Most similar fragment:
+f) Favorecer el desarrollo, gestión y mantenimiento de los parques públicos de 
+vivienda para asegurar una oferta significativa y estable de viviendas dignas y 
+adecuadas a los sectores sociales con mayores dificultades de acceso a una vivienda en 
+el mercado, mediante la necesaria inversión en cada ejercicio presupuestario y 
+atendiendo a las características y necesidades de todos los ámbitos territoriales, 
+afectados por diferentes dinámicas de crecimiento o de pérdida de población.
+g) Impulsar la rehabilitación y mejora de las viviendas existentes, tanto en el parque 
+privado como en los públicos, a través de programas y medidas en materia de 
+sostenibilidad, eficiencia energética y utilización de energías renovables, habitabilidad, 
+accesibilidad universal, conservación, mejora de la seguridad de utilización y 
+digitalización, favoreciendo enfoques integrales y contemplando de forma específica las 
+características de la vivienda en el medio rural.
+
+ Query: ¿Qué dice sobre los parques públicos de vivienda?
+ Time: 0.101 s
+Cosine similarity : 0.8281
 Coverage: 0.25
 Most similar fragment:
-artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
-parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
-situación de vulnerabilidad económica.
-Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
-ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
-meses, emitido, previo consentimiento de éste, por los servicios de las 
-Administraciones autonómicas y locales competentes en materia de vivienda, 
-asistencia social, evaluación e información de situaciones de necesidad social y 
-atención inmediata a personas en situación o riesgo de exclusión social que hayan 
-sido específicamente designados conforme a la legislación y normativa 
-autonómica en materia de vivienda.
-Este requisito también podrá cumplirse mediante:
-1.º La declaración responsable emitida por la parte actora de que ha acudido 
-a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
-antelac
+Dentro del parque de vivienda social se encuentran las viviendas dotacionales 
+públicas, que son aquellas que ocupan terrenos calificados urbanísticamente como 
+dotacionales públicos o que forman parte de edificaciones o locales destinados a 
+equipamientos de titularidad pública y afectos al servicio público. Las viviendas 
+dotacionales públicas podrán gestionarse por las administraciones públicas, sus 
+entidades dependientes o entidades sin ánimo de lucro con fines sociales vinculados a la 
+vivienda, para garantizar el acceso a las mismas a personas en situaciones de 
+vulnerabilidad o en exclusión social, en régimen de alquiler, derecho de superficie u otras 
+modalidades de tenencia temporal admitidas por la legislación aplicable.
+Las viviendas dotacionales públicas, junto con el resto de la vivienda social, formará 
+parte del parque público de vivienda que se regula específicamente en el título III, y que
 
- Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
- Time: 0.179 s
-Cosine similarity : 0.6805
-Coverage: 0.25
+ Query: ¿Que presidente del Gobierno firma el documento?
+ Time: 0.1 s
+Cosine similarity : 0.6794
+Coverage: 0.2857
 Most similar fragment:
-artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
-parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
-situación de vulnerabilidad económica.
-Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
-ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
-meses, emitido, previo consentimiento de éste, por los servicios de las 
-Administraciones autonómicas y locales competentes en materia de vivienda, 
-asistencia social, evaluación e información de situaciones de necesidad social y 
-atención inmediata a personas en situación o riesgo de exclusión social que hayan 
-sido específicamente designados conforme a la legislación y normativa 
-autonómica en materia de vivienda.
-Este requisito también podrá cumplirse mediante:
-1.º La declaración responsable emitida por la parte actora de que ha acudido 
-a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
-antelac
-
- Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
- Time: 0.132 s
-Cosine similarity : 0.7471
-Coverage: 0.4167
-Most similar fragment:
-artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
-parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
-situación de vulnerabilidad económica.
-Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
-ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
-meses, emitido, previo consentimiento de éste, por los servicios de las 
-Administraciones autonómicas y locales competentes en materia de vivienda, 
-asistencia social, evaluación e información de situaciones de necesidad social y 
-atención inmediata a personas en situación o riesgo de exclusión social que hayan 
-sido específicamente designados conforme a la legislación y normativa 
-autonómica en materia de vivienda.
-Este requisito también podrá cumplirse mediante:
-1.º La declaración responsable emitida por la parte actora de que ha acudido 
-a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
-antelac
-
- Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
- Time: 0.135 s
-Cosine similarity : 0.694
-Coverage: 0.5833
-Most similar fragment:
-podrá modificarse como tampoco podrán descalificarse las viviendas sobre dichos 
-suelos.
-Pero también es importante destacar la introducción del concepto de vivienda 
-asequible incentivada, como figura necesaria para incrementar la oferta a corto plazo. Se 
-trata de un novedoso concepto que se suma a la vivienda protegida como mecanismo 
-efectivo para incrementar la oferta de vivienda a precios asequibles, considerándose 
-como aquella vivienda de titularidad privada, incluidas las entidades del tercer sector y 
-de la economía social, a cuyo titular la Administración competente otorga beneficios de 
-carácter urbanístico, fiscal, o de cualquier otro tipo, a cambio de destinarlas a residencia 
-habitual en régimen de alquiler a precios reducidos, o de cualquier otra fórmula de 
-tenencia temporal, de personas cuyo nivel de ingresos no les permite acceder a una 
-vivienda a precio de mercado. De esta forma, se busca la implicación de todos los 
-agentes públicos, privados y tercer sector en la
-
- Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
- Time: 0.184 s
-Cosine similarity : 0.7141
-Coverage: 0.2727
-Most similar fragment:
-En tal supuesto, podrá establecerse la devolución de todas o parte de las ayudas 
-percibidas en caso de enajenación de la vivienda con posterioridad a su descalificación, 
-conforme se establezca en su normativa reguladora.
-En todo caso, se considerará causa justificada a los efectos anteriores, la promoción 
-de viviendas protegidas en suelos cuya calificación urbanística no impusiera dicho 
-destino y no hubiesen contado con ayudas públicas para su promoción.
-e) Su venta o alquiler estarán sujetos a la previa autorización de la Comunidad 
-Autónoma mientras la vivienda siga sujeta al régimen de protección pública que 
-corresponda y sólo podrá otorgarse tal autorización en favor de personas que cumplan 
-los requisitos previstos en la normativa correspondiente para acceder a una vivienda 
-protegida, cuando cumplan las siguientes condiciones:
-1.º Se efectúe prioritariamente a favor de personas o grupos de personas 
-demandantes inscritas en los registros públicos previstos al efecto por la n
-
- Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
- Time: 0.126 s
-Cosine similarity : 0.6754
-Coverage: 0.4545
-Most similar fragment:
-n) Adoptar medidas para identificar y prevenir la retención especulativa, la 
-segregación residencial, los procesos de sobreocupación, la exclusión residencial grave 
-como el chabolismo o el sinhogarismo y la degradación de las condiciones del parque de 
-viviendas existente y de su entorno, para permitir el desarrollo de su función residencial y 
-la mejora de la calidad de vida.
-ñ) Garantizar la igualdad, desde la perspectiva de género, edad, capacidad y 
-perspectiva territorial, en todas las políticas y acciones en materia de vivienda, a todos 
-los niveles, y en todas sus fases de planificación, ejecución y evaluación.
-o) Controlar y garantizar el uso responsable de recursos públicos suficientes, para 
-cumplir los objetivos de la política de vivienda por parte de las Administraciones 
-competentes y aplicar, en la gestión del parque público, criterios de corresponsabilidad 
-de sus ocupantes.
-p) Priorizar la atención e información a familias, hogares y unidades de convivencia 
-con menor
-
- Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
- Time: 0.142 s
-Cosine similarity : 0.6707
-Coverage: 0.4444
-Most similar fragment:
-El desarrollo de las actuaciones previstas en las letras c) y f) podrán servir para 
-atender a los trámites de intermediación y conciliación previos a la presentación de la 
-demanda, así como a la atención a las personas y hogares sujetos a vulnerabilidad en 
-los procedimientos recogidos en los artículos 439, 655 bis y 685 de la Ley 1/2000, de 7 
-de enero, de Enjuiciamiento Civil.
-3. Con la finalidad de evitar la especulación, además de las limitaciones 
-establecidas en esta ley para la vivienda protegida, los planes estatales podrán 
-establecer en la aplicación de sus programas medidas para redistribuir socialmente el 
-beneficio obtenido, en su caso, como consecuencia de la enajenación, dentro del límite 
-temporal que dichos planes establezcan, de viviendas que hayan obtenido ayudas 
-públicas para la realización de obras de rehabilitación, regeneración y renovación urbana 
-o rural, ya sea mediante la devolución de las ayudas, u otras medidas que se 
-establezcan.
-4. Corresponde al Gobi
+de atención inmediata a adoptar igualmente por la Administración competente, así 
+como de las posibles ayudas económicas y subvenciones de las que pueda ser 
+beneficiaria la parte demandada.
+En caso de que estas Administraciones Públicas confirmasen que el hogar 
+afectado se encuentra en situación de vulnerabilidad económica y, en su caso, 
+social, se notificará al órgano judicial a la mayor brevedad y en todo caso en el 
+plazo máximo de diez días.
+En los casos previstos por los apartados 6 y 7 del artículo 439, cuando la parte 
+actora sea una gran tenedora de vivienda y hubiera presentado junto con la 
+demanda documento acreditativo de la vulnerabilidad de la parte demandada, en 
+el oficio a las Administraciones públicas competentes se hará constar esta 
+circunstancia a efectos de que efectúen directamente, en el mismo plazo, la 
+propuesta de medidas de atención inmediata a adoptar, así como de las posibles 
+ayudas económicas y subvenciones de las que pueda ser beneficiaria la parte

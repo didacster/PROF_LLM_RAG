@@ -1,139 +1,137 @@
 Model: all-MiniLM-L6-v2
 ============================================================
 
- Query: ¿Cuál es el objetivo principal del protocolo firmado?
- Time: 0.035 s
-Cosine similarity : 0.5582
-Coverage: 0.375
-Most similar fragment:
-realización progresiva del derecho de todas las personas a una vivienda digna y 
-adecuada, a precios asequibles; que luchen contra todas las formas de discriminación y 
-violencia, especialmente en materia de género; que impidan los desalojos forzosos 
-arbitrarios y que se centren en las necesidades de las personas sin hogar erradicando el 
-fenómeno del sinhogarismo, de quienes padecen situaciones de vulnerabilidad, de los 
-grupos sociales con bajos ingresos y especiales dificultades y de las personas con 
-discapacidad; a la vez que propician la participación y la colaboración de las 
-comunidades y de todas las personas interesadas. Estas nuevas Agendas, tanto 
-nacional, como internacionales, muestran a los Estados y demás escalones de 
-Administración Pública la necesidad de reconocer la función social del suelo y de la 
-vivienda y su compromiso a favor de una amplia gama de opciones de creación de 
-vivienda, de promoción de diversos tipos de tenencia y de enfoques centrados, en suma, 
-
-
- Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
- Time: 0.01 s
-Cosine similarity : 0.5626
+ Query: ¿Cuál es el objetivo del documento?
+ Time: 0.013 s
+Cosine similarity : 0.5786
 Coverage: 0.3333
 Most similar fragment:
-territorial o ente instrumental correspondiente y que la asignación se realice acorde con 
-los objetivos de cobertura del derecho a la vivienda y de conformidad con la normativa 
-reguladora.
-d) Enajenar los bienes patrimoniales integrantes de los parques públicos de 
-vivienda, mediante los procedimientos admitidos por la legislación aplicable, únicamente 
-a otras Administraciones Públicas, sus entes instrumentales o a personas jurídicas sin 
-ánimo de lucro, dedicadas a la gestión de vivienda con fines sociales, y mediante la 
-obligación por parte del nuevo o nuevos titulares, de atenerse a las condiciones, plazos y 
-rentas máximas establecidos, subrogándose en sus derechos y obligaciones.
-2. En el desarrollo de las actuaciones previstas en el apartado anterior deberá 
-prestarse especial atención a las particularidades de cada entorno territorial, con objeto 
-de llevar a cabo el tipo de gestión y actuaciones más acordes a las características 
-sociales, económicas y territoriales de la d
+anteriormente detallados, sin implicar los contenidos de la norma ningún tipo de carga 
+administrativa.
+En cuanto al principio de seguridad jurídica y de transparencia, la ley ha seguido en 
+su tramitación los trámites de consulta pública previa, así como de audiencia e 
+información pública, previstos en el artículo 26 de la Ley 50/1997, de 27 de noviembre, 
+del Gobierno, si bien, tal principio se refuerza a través de la exposición clara y accesible 
+de los motivos y de los objetivos de la norma, que se recogen en esta parte expositiva y 
+en la preceptiva memoria de análisis de impacto normativo.
+TÍTULO PRELIMINAR
+Disposiciones generales
+Artículo 1. Objeto de la ley.
+1. Esta ley tiene por objeto regular, en el ámbito de competencias del Estado, las 
+condiciones básicas que garantizan la igualdad en el ejercicio de los derechos y en el 
+cumplimiento de los deberes constitucionales relacionados con la vivienda y, en
 
- Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
- Time: 0.009 s
-Cosine similarity : 0.6216
-Coverage: 0.5833
+ Query: ¿Qué dice sobre los plazos?
+ Time: 0.007 s
+Cosine similarity : 0.5192
+Coverage: 0.4
 Most similar fragment:
-El título IV se centra en el refuerzo de la protección en las operaciones de compra o 
-alquiler de vivienda, estableciendo una serie de garantías y obligaciones de información 
-a la que tienen derecho las personas o entidades adquirentes o arrendatarias de 
-vivienda, y una serie de responsabilidades derivadas de su incumplimiento, ya se trate 
-del vendedor o del intermediario en la operación inmobiliaria. En particular, se establece 
-como derecho de las personas demandantes, adquirientes o arrendatarias de vivienda, 
-el de recibir información en formato accesible, que sea completa, objetiva, veraz, clara, 
-comprensible y accesible, que asegure el pleno conocimiento de las condiciones de la 
-vivienda objeto de la operación. Asimismo, se establecen determinados requisitos 
-básicos de los agentes inmobiliarios y de la información o publicidad a los que deben 
-sujetarse los operadores.
-En el mismo título IV se recoge, sin perjuicio de los principios y requerimientos 
-contenidos en la norma
-
- Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
- Time: 0.012 s
-Cosine similarity : 0.6321
-Coverage: 0.5
-Most similar fragment:
-contenidas en el mismo, ya sea por su complejidad de gestión o por la naturaleza de lo 
-conveniado entre las partes.
-Artículo 21. Órganos de Cooperación en materia de vivienda y suelo.
-Se establecen los siguientes órganos de cooperación en materia de vivienda y suelo:
-a) Conferencia Sectorial de Vivienda y Suelo: es el máximo órgano de cooperación 
-de estas materias entre el Estado, las comunidades autónomas y las ciudades de Ceuta 
-y Melilla. Se reunirá al menos una vez al año y será presidida por el titular del Ministerio 
-de Transportes, Movilidad y Agenda Urbana.
-b) Comisión Multilateral de Vivienda y Suelo: Será presidida por el titular de la 
-Secretaría General de Agenda Urbana y Vivienda, y reunirá a los titulares de las 
-Direcciones Generales competentes en estas materias. Se reunirá al menos una vez al 
-año, y en ella se evaluará el cumplimiento de los acuerdos y directrices emanados de la 
-Conferencia Sectorial, y se propondrán los asuntos que se acuerden elevar a ese 
-Órgano
-
- Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
- Time: 0.008 s
-Cosine similarity : 0.581
-Coverage: 0.3636
-Most similar fragment:
-Disposición final primera.  Medidas de contención de precios en la regulación de los 
-contratos de arrendamiento de vivienda.
-La Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, queda modificada 
+el IPREM, sin perjuicio de los incrementos acumulados por hijo a cargo.
+A estos mismos efectos, el tribunal para apreciar la vulnerabilidad social podrá 
+considerar el hecho de que, entre quienes ocupen la vivienda, se encuentren 
+personas dependientes de conformidad con lo dispuesto en el apartado 2 del 
+artículo 2 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
+Personal y Atención a las personas en situación de dependencia, víctimas de 
+violencia sobre la mujer o personas menores de edad.»
+Cinco. Se modifican los apartados 3 y 4 del artículo 549, que quedan redactados 
 como sigue:
-Uno. El artículo 10 queda redactado en los siguientes términos:
-«Artículo 10. Prórroga del contrato.
-1. Si llegada la fecha de vencimiento del contrato, o de cualquiera de sus 
-prórrogas, una vez transcurridos como mínimo cinco años de duración de aquel, o 
-siete años si el arrendador fuese persona jurídica, ninguna de las partes hubiese 
-notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el 
-caso del arrendador y al menos con dos meses de antelación en el caso del 
-arrendatario, su voluntad de no renovarlo, el contrato se prorrogará 
-obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que 
-el arrendatario manifieste al arrendador con un mes de antelación a la fecha de 
-terminación de cualquiera de las anualidades, su
+«3. En la sentencia condenatoria de todos los tipos de desahucio, o en los 
+decretos que pongan fin al referido desahucio si no hubiera oposición al 
+requerimiento, la solicitud de su ejecución en la demanda de desahucio será 
+suficiente para la ejecución directa de dichas resoluciones, sin necesidad de
 
- Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
- Time: 0.011 s
-Cosine similarity : 0.5723
-Coverage: 0.4545
+ Query: ¿Qué organismos participan?
+ Time: 0.008 s
+Cosine similarity : 0.5151
+Coverage: 0.0
 Most similar fragment:
-realización progresiva del derecho de todas las personas a una vivienda digna y 
-adecuada, a precios asequibles; que luchen contra todas las formas de discriminación y 
-violencia, especialmente en materia de género; que impidan los desalojos forzosos 
-arbitrarios y que se centren en las necesidades de las personas sin hogar erradicando el 
-fenómeno del sinhogarismo, de quienes padecen situaciones de vulnerabilidad, de los 
-grupos sociales con bajos ingresos y especiales dificultades y de las personas con 
-discapacidad; a la vez que propician la participación y la colaboración de las 
-comunidades y de todas las personas interesadas. Estas nuevas Agendas, tanto 
-nacional, como internacionales, muestran a los Estados y demás escalones de 
-Administración Pública la necesidad de reconocer la función social del suelo y de la 
-vivienda y su compromiso a favor de una amplia gama de opciones de creación de 
-vivienda, de promoción de diversos tipos de tenencia y de enfoques centrados, en suma, 
+particularmente de los promotores sociales de vivienda, de las asociaciones ciudadanas 
+de defensa del derecho a la vivienda, de las asociaciones de arrendatarios y de 
+propietarios, de administradores de fincas y de los agentes inmobiliarios.
+s) Potenciar la economía social, impulsando la participación de las entidades de 
+carácter social y asistencial en el ámbito de la vivienda.
+Artículo 3. Definiciones.
+A los efectos de lo dispuesto en esta ley, y en tanto no entren en contradicción con 
+las reguladas por las administraciones competentes en materia de vivienda, en cuyo 
+caso, y a los efectos de su regulación, prevalecerán aquéllas, se establecen las 
+siguientes definiciones:
+a) Vivienda: edificio o parte de un edificio de carácter privativo y con destino a 
+residencia y habitación de las personas, que reúne las condiciones mínimas de 
+habitabilidad exigidas legalmente, pudiendo disponer de acceso a espacios y servicios
 
-
- Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
+ Query: ¿Quien tiene  la competencia plena en materia de vivienda?
  Time: 0.009 s
-Cosine similarity : 0.5744
+Cosine similarity : 0.6597
 Coverage: 0.4444
 Most similar fragment:
-El desarrollo de las actuaciones previstas en las letras c) y f) podrán servir para 
-atender a los trámites de intermediación y conciliación previos a la presentación de la 
-demanda, así como a la atención a las personas y hogares sujetos a vulnerabilidad en 
-los procedimientos recogidos en los artículos 439, 655 bis y 685 de la Ley 1/2000, de 7 
-de enero, de Enjuiciamiento Civil.
-3. Con la finalidad de evitar la especulación, además de las limitaciones 
-establecidas en esta ley para la vivienda protegida, los planes estatales podrán 
-establecer en la aplicación de sus programas medidas para redistribuir socialmente el 
-beneficio obtenido, en su caso, como consecuencia de la enajenación, dentro del límite 
-temporal que dichos planes establezcan, de viviendas que hayan obtenido ayudas 
-públicas para la realización de obras de rehabilitación, regeneración y renovación urbana 
-o rural, ya sea mediante la devolución de las ayudas, u otras medidas que se 
-establezcan.
-4. Corresponde al Gobi
+y la de vivienda.
+TÍTULO II
+Acción de los poderes públicos en materia de vivienda
+CAPÍTULO I
+Principios generales de la actuación pública en materia de vivienda
+Artículo 12.  Acción del Estado en materia de vivienda, rehabilitación, regeneración y 
+renovación urbana.
+1. Con el objetivo de promover el ejercicio efectivo del derecho de todos los 
+ciudadanos al disfrute de una vivienda digna y adecuada, y en el ámbito de sus 
+competencias, el Estado llevará a cabo la planificación necesaria con su correspondiente 
+financiación con el fin de facilitar el ejercicio efectivo del derecho a la vivienda, así como 
+para favorecer la conservación y mejora del parque residencial y de su entorno 
+construido, prestando especial atención a aquellos colectivos, personas y familias con 
+mayores dificultades de acceso o que puedan encontrarse en riesgo de exclusión 
+residencial y con especial atención a aquellas familias, hogares y unidades de 
+convivencia con menores a cargo.
+
+ Query: ¿Qué dice sobre la sostenibilidad?
+ Time: 0.008 s
+Cosine similarity : 0.5301
+Coverage: 0.4
+Most similar fragment:
+adaptación del parque edificatorio existente, que precisan el particular apoyo de los 
+poderes públicos. Así, se hace necesario que todas las administraciones, en el ejercicio 
+de sus competencias sobre vivienda, garanticen el acceso a la vivienda en las áreas 
+rurales, especialmente para los colectivos vulnerables, impulsando la cohesión territorial 
+y facilitando la lucha contra la despoblación.
+Hoy se considera imprescindible que la planificación económica en materia de 
+vivienda cuente con un marco legislativo estable, una de cuyas misiones trata de cumplir 
+esta ley.
+En lo que se refiere a la calidad del parque de viviendas, la normativa estatal de 
+edificación establece requisitos y exigencias básicas que afectan directamente a la 
+funcionalidad, la seguridad y la habitabilidad de las viviendas. Sin embargo, dichas 
+exigencias sólo aplican en aquellas viviendas de nueva construcción o en determinadas
+
+ Query: ¿Qué dice sobre los parques públicos de vivienda?
+ Time: 0.008 s
+Cosine similarity : 0.7198
+Coverage: 0.5
+Most similar fragment:
+Por último, se establece el Consejo Asesor de Vivienda, como un órgano consultivo 
+para las políticas estatales de vivienda, cuya creación deberá ser objeto de desarrollo 
+reglamentario y que asegurará la participación de los distintos agentes sociales en la 
+elaboración y desarrollo de la política de vivienda.
+En el título III se establece la regulación del régimen jurídico básico de los parques 
+públicos de vivienda, una de las apuestas más significativas de esta ley. Dichos parques 
+públicos, casi inexistentes en España si se comparan con la media de la Unión Europea, 
+son fundamentales para garantizar el acceso a una vivienda digna y adecuada a amplios 
+grupos sociales y para poder paliar los efectos de los graves desajustes del mercado. 
+Según las últimas estimaciones del Observatorio de Vivienda y Suelo del Ministerio de 
+Transportes, Movilidad y Agenda Urbana, se puede señalar que en España existe un
+
+ Query: ¿Que presidente del Gobierno firma el documento?
+ Time: 0.011 s
+Cosine similarity : 0.5598
+Coverage: 0.4286
+Most similar fragment:
+específicos relacionados con esas materias.
+Corresponde igualmente a ese Departamento Ministerial la propuesta de estrategias 
+o medidas relacionadas con estas materias al Consejo de Ministros, o a la Comisión 
+Delegada del Gobierno para Asuntos Económicos.
+CAPÍTULO III
+Actuación del estado en materia de vivienda
+Artículo 23. Planificación y programación estatal en materia de vivienda.
+1. La Administración General del Estado contribuirá, en colaboración con las demás 
+Administraciones públicas en cualquiera de las formas admitidas por la legislación 
+reguladora del régimen del sector público, a garantizar el derecho constitucional a 
+disfrutar de una vivienda digna y adecuada mediante los instrumentos de política fiscal, 
+económica, social y de planificación o de programación de su competencia, atendiendo a 
+la realidad económica, financiera y social, en favor de la cohesión territorial y la lucha 
+contra la despoblación.

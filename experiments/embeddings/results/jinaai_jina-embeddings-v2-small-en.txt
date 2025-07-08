@@ -1,144 +1,81 @@
 Model: jinaai/jina-embeddings-v2-small-en
 ============================================================
 
- Query: ¿Cuál es el objetivo principal del protocolo firmado?
- Time: 0.102 s
-Cosine similarity : 0.835
-Coverage: 0.25
-Most similar fragment:
-Disposición final novena. Entrada en vigor.
-La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín 
-Oficial del Estado», excepto la disposición final segunda, que entrará en vigor el 1 de 
-enero del año siguiente al de su publicación en el «Boletín Oficial del Estado».
-Por tanto,
-Mando a todos los españoles, particulares y autoridades, que guarden y hagan 
-guardar esta ley.
-Madrid, 24 de mayo de 2023.
-FELIPE R.
-El Presidente del Gobierno,
-PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
-BOLETÍN OFICIAL DEL ESTADO
-Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71537
-cve: BOE-A-2023-12203
-Verificable en https://www.boe.es
-https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
-
- Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
- Time: 0.009 s
-Cosine similarity : 0.8796
+ Query: ¿Cuál es el objetivo del documento?
+ Time: 0.012 s
+Cosine similarity : 0.8905
 Coverage: 0.1667
 Most similar fragment:
-Contra el auto que decida sobre el incidente no cabrá recurso alguno y se 
-llevará a efecto contra cualquiera de los ocupantes que se encontraren en ese 
-momento en la vivienda.»
-«5. En los casos de los números 1.º, 2.º, 4.º y 7.º del apartado 1 del 
-artículo 250, siempre que el inmueble objeto de la controversia constituya la 
-vivienda habitual de la parte demandada, se informará a esta, en el decreto de 
-admisión a trámite de la demanda, de la posibilidad de acudir a las 
-Administraciones Públicas autonómicas y locales competentes en materia de 
-vivienda, asistencia social, evaluación e información de situaciones de necesidad 
-social y atención inmediata a personas en situación o riesgo de exclusión social. 
-La información deberá comprender los datos exactos de identificación de dichas 
-Administraciones y el modo de tomar contacto con ellas, a efectos de que puedan 
-apreciar la posible situación de vulnerabilidad de la parte demandada.
-Sin perjuicio de lo dispuesto en el párrafo ante
+Este documento no podrá tener una vigencia superior a tres meses.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71528
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
 
- Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
- Time: 0.028 s
-Cosine similarity : 0.8823
-Coverage: 0.4167
-Most similar fragment:
-«7. El tribunal tomará la decisión previa valoración ponderada y proporcional del 
-caso concreto, apreciando las situaciones de vulnerabilidad que pudieran concurrir 
-también en la parte actora y cualquier otra circunstancia acreditada en autos.
-A estos efectos, en particular, el tribunal para apreciar la situación de 
-vulnerabilidad económica podrá considerar el hecho de que el importe de la renta, 
-si se trata de un juicio de desahucio por falta de pago, más el de los suministros 
-de electricidad, gas, agua y telecomunicaciones suponga más del 30 por 100 de 
-los ingresos de la unidad familiar y que el conjunto de dichos ingresos no alcance:
-a) Con carácter general, el límite de 3 veces el Indicador Público de Renta de 
-Efectos Múltiples mensual (en adelante IPREM).
-b) Este límite se incrementará en 0,3 veces el IPREM por cada hijo a cargo 
-en la unidad familiar. El incremento aplicable por hijo a cargo será de 0,35 veces 
-el IPREM por cada hijo en el caso de unidad familiar monoparen
-
- Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
- Time: 0.008 s
-Cosine similarity : 0.8676
-Coverage: 0.5
-Most similar fragment:
-En el caso de que la parte ejecutante sea una entidad pública de vivienda el 
-requisito anterior se podrá sustituir, en su caso, por la previa concurrencia de la 
-acción de los servicios específicos de intermediación de la propia entidad, que se 
-acreditará en los términos del apartado anterior.»
-Siete. Se modifica el artículo 675, que queda redactado como sigue:
-«Artículo 675. Posesión judicial y ocupantes del inmueble.
-1. Si el adquirente lo solicitara, se le pondrá en posesión del inmueble que no 
-se hallare ocupado.
-2. Si el inmueble estuviera ocupado, el Letrado de la Administración de 
-Justicia acordará de inmediato el lanzamiento cuando el Tribunal haya resuelto, 
-con fijación de día y hora exacta y con arreglo a lo previsto en el apartado 2 del 
-artículo 661, que el ocupante u ocupantes no tienen derecho a permanecer en él. 
-Los ocupantes desalojados podrán ejercitar los derechos que crean asistirles en el 
-juicio que corresponda.
-Cuando, estando el inmueble ocupado, no se hubi
-
- Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Query: ¿Qué dice sobre los plazos?
  Time: 0.009 s
-Cosine similarity : 0.8802
-Coverage: 0.3636
+Cosine similarity : 0.8383
+Coverage: 0.0
 Most similar fragment:
-Disposición final primera.  Medidas de contención de precios en la regulación de los 
-contratos de arrendamiento de vivienda.
-La Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, queda modificada 
-como sigue:
-Uno. El artículo 10 queda redactado en los siguientes términos:
-«Artículo 10. Prórroga del contrato.
-1. Si llegada la fecha de vencimiento del contrato, o de cualquiera de sus 
-prórrogas, una vez transcurridos como mínimo cinco años de duración de aquel, o 
-siete años si el arrendador fuese persona jurídica, ninguna de las partes hubiese 
-notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el 
-caso del arrendador y al menos con dos meses de antelación en el caso del 
-arrendatario, su voluntad de no renovarlo, el contrato se prorrogará 
-obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que 
-el arrendatario manifieste al arrendador con un mes de antelación a la fecha de 
-terminación de cualquiera de las anualidades, su
+Este documento no podrá tener una vigencia superior a tres meses.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71528
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
 
- Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
- Time: 0.016 s
-Cosine similarity : 0.8547
-Coverage: 0.5455
+ Query: ¿Qué organismos participan?
+ Time: 0.009 s
+Cosine similarity : 0.8289
+Coverage: 0.0
 Most similar fragment:
-En tal supuesto, podrá establecerse la devolución de todas o parte de las ayudas 
-percibidas en caso de enajenación de la vivienda con posterioridad a su descalificación, 
-conforme se establezca en su normativa reguladora.
-En todo caso, se considerará causa justificada a los efectos anteriores, la promoción 
-de viviendas protegidas en suelos cuya calificación urbanística no impusiera dicho 
-destino y no hubiesen contado con ayudas públicas para su promoción.
-e) Su venta o alquiler estarán sujetos a la previa autorización de la Comunidad 
-Autónoma mientras la vivienda siga sujeta al régimen de protección pública que 
-corresponda y sólo podrá otorgarse tal autorización en favor de personas que cumplan 
-los requisitos previstos en la normativa correspondiente para acceder a una vivienda 
-protegida, cuando cumplan las siguientes condiciones:
-1.º Se efectúe prioritariamente a favor de personas o grupos de personas 
-demandantes inscritas en los registros públicos previstos al efecto por la n
+a) La efectividad de los derechos de acceso en condiciones asequibles a una 
+vivienda digna y adecuada de acuerdo con la Constitución Española y las 
+recomendaciones de los instrumentos internacionales ratificados por España.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71493
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
 
- Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
- Time: 0.024 s
-Cosine similarity : 0.8678
-Coverage: 0.2222
+ Query: ¿Quien tiene  la competencia plena en materia de vivienda?
+ Time: 0.01 s
+Cosine similarity : 0.8626
+Coverage: 0.3333
 Most similar fragment:
-Contra el auto que decida sobre el incidente no cabrá recurso alguno y se 
-llevará a efecto contra cualquiera de los ocupantes que se encontraren en ese 
-momento en la vivienda.»
-«5. En los casos de los números 1.º, 2.º, 4.º y 7.º del apartado 1 del 
-artículo 250, siempre que el inmueble objeto de la controversia constituya la 
-vivienda habitual de la parte demandada, se informará a esta, en el decreto de 
-admisión a trámite de la demanda, de la posibilidad de acudir a las 
-Administraciones Públicas autonómicas y locales competentes en materia de 
-vivienda, asistencia social, evaluación e información de situaciones de necesidad 
-social y atención inmediata a personas en situación o riesgo de exclusión social. 
-La información deberá comprender los datos exactos de identificación de dichas 
-Administraciones y el modo de tomar contacto con ellas, a efectos de que puedan 
-apreciar la posible situación de vulnerabilidad de la parte demandada.
-Sin perjuicio de lo dispuesto en el párrafo ante
+vivienda asequible a amplias capas de la sociedad.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71496
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
+
+ Query: ¿Qué dice sobre la sostenibilidad?
+ Time: 0.009 s
+Cosine similarity : 0.851
+Coverage: 0.2
+Most similar fragment:
+vivienda asequible a amplias capas de la sociedad.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71496
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
+
+ Query: ¿Qué dice sobre los parques públicos de vivienda?
+ Time: 0.01 s
+Cosine similarity : 0.8769
+Coverage: 0.125
+Most similar fragment:
+vivienda asequible a amplias capas de la sociedad.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71496
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
+
+ Query: ¿Que presidente del Gobierno firma el documento?
+ Time: 0.011 s
+Cosine similarity : 0.8438
+Coverage: 0.1429
+Most similar fragment:
+Este documento no podrá tener una vigencia superior a tres meses.
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71528
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es

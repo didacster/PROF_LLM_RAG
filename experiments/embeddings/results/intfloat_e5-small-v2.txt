@@ -1,148 +1,140 @@
 Model: intfloat/e5-small-v2
 ============================================================
 
- Query: ¿Cuál es el objetivo principal del protocolo firmado?
+ Query: ¿Cuál es el objetivo del documento?
  Time: 0.015 s
-Cosine similarity : 0.8254
-Coverage: 0.25
-Most similar fragment:
-alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
-siguientes objetivos específicos:
-a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
-entidades del tercer sector, a las personas y familias con menos recursos, evitando 
-desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
-entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
-b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
-mercado residencial tensionado.
-c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
-vivienda social o asequible.
-En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
-para atender las necesidades de los distintos entornos territoriales y, específicamente, 
-las de los pequeños municipios afectados por procesos de envejecimiento o 
-despoblación.
-5. En el caso de que las administraciones competent
-
- Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
- Time: 0.016 s
-Cosine similarity : 0.8228
-Coverage: 0.4167
-Most similar fragment:
-presentada antes de que se haya iniciado un procedimiento de verificación de 
-datos, de comprobación limitada o de inspección que incluya en su objeto la 
-comprobación de tales rendimientos.
-En ningún caso resultarán de aplicación las reducciones respecto de la parte 
-de los rendimientos netos positivos derivada de ingresos no incluidos o de gastos 
-indebidamente deducidos en la autoliquidación del contribuyente y que se 
-regularicen en alguno de los procedimientos citados en el párrafo anterior, incluso 
-cuando esas circunstancias hayan sido declaradas o aceptadas por el 
-contribuyente durante la tramitación del procedimiento. Tampoco resultarán de 
-aplicación las reducciones en relación con aquellos contratos de arrendamiento 
-que incumplan lo dispuesto en el apartado 6 del artículo 17 de la Ley de 
-Arrendamientos Urbanos.
-Las zonas de mercado residencial tensionado a las que podrá resultar de 
-aplicación lo previsto en este apartado serán las recogidas en la resolución que, 
-de acue
-
- Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
- Time: 0.017 s
-Cosine similarity : 0.8595
-Coverage: 0.4167
-Most similar fragment:
-siempre que, cuando se trate de actuaciones de nueva urbanización, se garantice 
-en el instrumento de ordenación el cumplimiento íntegro de la reserva dentro de su 
-ámbito territorial de aplicación y una distribución de su localización respetuosa con 
-el principio de cohesión social.»
-Disposición final quinta.  Modificación de la Ley 1/2000, de 7 de enero, de 
-Enjuiciamiento Civil.
-La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada como sigue:
-Uno. Se modifica el apartado 4 del artículo 150, que queda redactado del siguiente 
-modo:
-«4. Cuando la notificación de la resolución contenga fijación de fecha para el 
-lanzamiento de quienes ocupan una vivienda, se dará traslado a las 
-Administraciones Públicas competentes en materia de vivienda, asistencia social, 
-evaluación e información de situaciones de necesidad social y atención inmediata 
-a personas en situación o riesgo de exclusión social, por si procediera su 
-actuación.»
-Dos. Se añaden nuevos apartados 6 y 7 en 
-
- Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
- Time: 0.019 s
-Cosine similarity : 0.8302
-Coverage: 0.6667
-Most similar fragment:
-d) Información jurídica del inmueble: la identificación registral de la finca, con la 
-referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
-participación fijada en el título de propiedad.
-e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
-circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
-f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
-ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
-histórico, se aportará información sobre el grado de protección y las condiciones y 
-limitaciones para las intervenciones de reforma o rehabilitación.
-g) Cualquier otra información que pueda ser relevante para la persona interesada 
-en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
-territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
-relacionados con la misma.
-2. En los mismos
-
- Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
- Time: 0.019 s
-Cosine similarity : 0.8388
-Coverage: 0.3636
-Most similar fragment:
-presentada antes de que se haya iniciado un procedimiento de verificación de 
-datos, de comprobación limitada o de inspección que incluya en su objeto la 
-comprobación de tales rendimientos.
-En ningún caso resultarán de aplicación las reducciones respecto de la parte 
-de los rendimientos netos positivos derivada de ingresos no incluidos o de gastos 
-indebidamente deducidos en la autoliquidación del contribuyente y que se 
-regularicen en alguno de los procedimientos citados en el párrafo anterior, incluso 
-cuando esas circunstancias hayan sido declaradas o aceptadas por el 
-contribuyente durante la tramitación del procedimiento. Tampoco resultarán de 
-aplicación las reducciones en relación con aquellos contratos de arrendamiento 
-que incumplan lo dispuesto en el apartado 6 del artículo 17 de la Ley de 
-Arrendamientos Urbanos.
-Las zonas de mercado residencial tensionado a las que podrá resultar de 
-aplicación lo previsto en este apartado serán las recogidas en la resolución que, 
-de acue
-
- Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
- Time: 0.018 s
-Cosine similarity : 0.8174
-Coverage: 0.4545
-Most similar fragment:
-alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
-siguientes objetivos específicos:
-a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
-entidades del tercer sector, a las personas y familias con menos recursos, evitando 
-desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
-entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
-b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
-mercado residencial tensionado.
-c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
-vivienda social o asequible.
-En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
-para atender las necesidades de los distintos entornos territoriales y, específicamente, 
-las de los pequeños municipios afectados por procesos de envejecimiento o 
-despoblación.
-5. En el caso de que las administraciones competent
-
- Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
- Time: 0.018 s
-Cosine similarity : 0.8411
+Cosine similarity : 0.8691
 Coverage: 0.3333
 Most similar fragment:
-d) Información jurídica del inmueble: la identificación registral de la finca, con la 
-referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
-participación fijada en el título de propiedad.
-e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
-circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
-f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
-ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
-histórico, se aportará información sobre el grado de protección y las condiciones y 
-limitaciones para las intervenciones de reforma o rehabilitación.
-g) Cualquier otra información que pueda ser relevante para la persona interesada 
-en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
-territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
-relacionados con la misma.
-2. En los mismos
+sin que hubiera sido atendida o se hubieran iniciado los trámites correspondientes en el 
+plazo de dos meses desde que presentó su solicitud, junto con justificante acreditativo de 
+la misma.
+2.º El documento acreditativo de los servicios competentes que indique el resultado 
+del procedimiento de conciliación o intermediación, en el que se hará constar la identidad 
+de las partes, el objeto de la controversia y si alguna de las partes ha rehusado participar 
+en el procedimiento, en su caso. Este documento no podrá tener una vigencia superior 
+a tres meses.
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el requisito 
+anterior se podrá sustituir, en su caso, por la previa concurrencia de la acción de los 
+servicios específicos de intermediación de la propia entidad, que se acreditará en los 
+términos del apartado anterior.
+Disposición transitoria cuarta.  Régimen de los contratos de arrendamiento celebrados 
+con anterioridad a la entrada en vigor de esta ley.
+
+ Query: ¿Qué dice sobre los plazos?
+ Time: 0.016 s
+Cosine similarity : 0.8535
+Coverage: 0.2
+Most similar fragment:
+1.º La declaración responsable emitida por la parte actora de que ha acudido 
+a los servicios indicados anteriormente, en un plazo máximo de cinco meses de 
+antelación a la presentación de la solicitud de inicio de la vía de apremio, sin que 
+hubiera sido atendida o se hubieran iniciado los trámites correspondientes en el 
+plazo de dos meses desde que presentó su solicitud, junto con justificante 
+acreditativo de la misma. En tal caso el Juzgado se dirigirá a las Administraciones 
+competentes a fin de que confirmen, en el plazo máximo de diez días, si el hogar 
+afectado se encuentra en situación de vulnerabilidad económica y, en su caso, 
+social, así como las medidas previstas que se aplicarán de forma inmediata para 
+que disponga de una vivienda.
+2.º El documento acreditativo de los servicios competentes que indiquen que 
+la parte ejecutada no consiente expresamente el estudio de su situación 
+económica en los términos previstos por la legislación y normativa autonómica en
+
+ Query: ¿Qué organismos participan?
+ Time: 0.015 s
+Cosine similarity : 0.8352
+Coverage: 0.0
+Most similar fragment:
+artículo 439 y no haya sido acreditado con anterioridad, deberá acreditarse por la 
+parte actora, antes del inicio de la vía de apremio, si el deudor se encuentra en 
+situación de vulnerabilidad económica.
+Para acreditar la concurrencia o no de vulnerabilidad económica de la parte 
+ejecutada se deberá aportar documento acreditativo, de vigencia no superior a tres 
+meses, emitido, previo consentimiento de éste, por los servicios de las 
+Administraciones autonómicas y locales competentes en materia de vivienda, 
+asistencia social, evaluación e información de situaciones de necesidad social y 
+atención inmediata a personas en situación o riesgo de exclusión social que hayan 
+sido específicamente designados conforme a la legislación y normativa 
+autonómica en materia de vivienda.
+Este requisito también podrá cumplirse mediante:
+1.º La declaración responsable emitida por la parte actora de que ha acudido 
+a los servicios indicados anteriormente, en un plazo máximo de cinco meses de
+
+ Query: ¿Quien tiene  la competencia plena en materia de vivienda?
+ Time: 0.015 s
+Cosine similarity : 0.8866
+Coverage: 0.4444
+Most similar fragment:
+y la de vivienda.
+TÍTULO II
+Acción de los poderes públicos en materia de vivienda
+CAPÍTULO I
+Principios generales de la actuación pública en materia de vivienda
+Artículo 12.  Acción del Estado en materia de vivienda, rehabilitación, regeneración y 
+renovación urbana.
+1. Con el objetivo de promover el ejercicio efectivo del derecho de todos los 
+ciudadanos al disfrute de una vivienda digna y adecuada, y en el ámbito de sus 
+competencias, el Estado llevará a cabo la planificación necesaria con su correspondiente 
+financiación con el fin de facilitar el ejercicio efectivo del derecho a la vivienda, así como 
+para favorecer la conservación y mejora del parque residencial y de su entorno 
+construido, prestando especial atención a aquellos colectivos, personas y familias con 
+mayores dificultades de acceso o que puedan encontrarse en riesgo de exclusión 
+residencial y con especial atención a aquellas familias, hogares y unidades de 
+convivencia con menores a cargo.
+
+ Query: ¿Qué dice sobre la sostenibilidad?
+ Time: 0.013 s
+Cosine similarity : 0.8517
+Coverage: 0.2
+Most similar fragment:
+f) Favorecer el desarrollo, gestión y mantenimiento de los parques públicos de 
+vivienda para asegurar una oferta significativa y estable de viviendas dignas y 
+adecuadas a los sectores sociales con mayores dificultades de acceso a una vivienda en 
+el mercado, mediante la necesaria inversión en cada ejercicio presupuestario y 
+atendiendo a las características y necesidades de todos los ámbitos territoriales, 
+afectados por diferentes dinámicas de crecimiento o de pérdida de población.
+g) Impulsar la rehabilitación y mejora de las viviendas existentes, tanto en el parque 
+privado como en los públicos, a través de programas y medidas en materia de 
+sostenibilidad, eficiencia energética y utilización de energías renovables, habitabilidad, 
+accesibilidad universal, conservación, mejora de la seguridad de utilización y 
+digitalización, favoreciendo enfoques integrales y contemplando de forma específica las 
+características de la vivienda en el medio rural.
+
+ Query: ¿Qué dice sobre los parques públicos de vivienda?
+ Time: 0.013 s
+Cosine similarity : 0.92
+Coverage: 0.625
+Most similar fragment:
+Los parques públicos de vivienda, regulados específicamente por la legislación 
+autonómica en materia de vivienda, urbanismo y ordenación del territorio, podrán estar 
+integrados al menos por:
+a) Las viviendas dotacionales públicas.
+b) Las viviendas sociales y protegidas construidas sobre suelo de titularidad 
+pública, así como las que lo hayan sido en ejercicio del derecho de superficie, usufructo 
+o cesión de uso y para alquiler con opción a compra, durante el tiempo en el que no se 
+active la correspondiente opción.
+c) Las viviendas sociales adquiridas por las Administraciones Públicas en ejercicio 
+de los derechos de tanteo y retracto, de conformidad con lo que disponga la legislación 
+aplicable y las adquiridas a través de esos mismos derechos, en casos de ejecución 
+hipotecaria o dación en pago de vivienda habitual de colectivos en situación de 
+vulnerabilidad o en exclusión social, tal y como prevé la legislación autonómica.
+
+ Query: ¿Que presidente del Gobierno firma el documento?
+ Time: 0.015 s
+Cosine similarity : 0.8256
+Coverage: 0.2857
+Most similar fragment:
+sin que hubiera sido atendida o se hubieran iniciado los trámites correspondientes en el 
+plazo de dos meses desde que presentó su solicitud, junto con justificante acreditativo de 
+la misma.
+2.º El documento acreditativo de los servicios competentes que indique el resultado 
+del procedimiento de conciliación o intermediación, en el que se hará constar la identidad 
+de las partes, el objeto de la controversia y si alguna de las partes ha rehusado participar 
+en el procedimiento, en su caso. Este documento no podrá tener una vigencia superior 
+a tres meses.
+En el caso de que la parte ejecutante sea una entidad pública de vivienda el requisito 
+anterior se podrá sustituir, en su caso, por la previa concurrencia de la acción de los 
+servicios específicos de intermediación de la propia entidad, que se acreditará en los 
+términos del apartado anterior.
+Disposición transitoria cuarta.  Régimen de los contratos de arrendamiento celebrados 
+con anterioridad a la entrada en vigor de esta ley.

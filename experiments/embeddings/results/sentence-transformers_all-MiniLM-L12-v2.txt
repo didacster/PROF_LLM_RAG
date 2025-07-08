@@ -1,153 +1,137 @@
 Model: sentence-transformers/all-MiniLM-L12-v2
 ============================================================
 
- Query: ¿Cuál es el objetivo principal del protocolo firmado?
- Time: 0.017 s
-Cosine similarity : 0.5472
-Coverage: 0.25
+ Query: ¿Cuál es el objetivo del documento?
+ Time: 0.014 s
+Cosine similarity : 0.5252
+Coverage: 0.5
 Most similar fragment:
-alquiler,  entidades  del tercer sector,  o los principales  operadores,  que tendrán  los 
-siguientes objetivos específicos:
-a) Dar respuesta y acompañamiento, en coordinación con los servicios sociales y 
-entidades del tercer sector, a las personas y familias con menos recursos, evitando 
-desahucios en situaciones de vulnerabilidad, y estableciendo protocolos de colaboración 
-entre las Administraciones Públicas y las entidades privadas gestoras de vivienda.
-b) Incrementar el parque de vivienda social y asequible, especialmente en zonas de 
-mercado residencial tensionado.
-c) Promover el compromiso de destinar un porcentaje mínimo de su parque a 
-vivienda social o asequible.
-En la definición de estos objetivos deberá incorporarse una perspectiva territorial, 
-para atender las necesidades de los distintos entornos territoriales y, específicamente, 
-las de los pequeños municipios afectados por procesos de envejecimiento o 
-despoblación.
-5. En el caso de que las administraciones competent
+pública en la materia. Uno y otras están abocados, por tanto, a articular sus respectivas 
+actuaciones de modo que puedan desplegarse en un marco normativo coherente, 
+estable y seguro que haga posible la realidad del derecho reconocido en el artículo 47 de 
+la Constitución en ejecución de las medidas, acciones, planes y programas 
+correspondientes y la igualdad básica de todos los españoles en relación con dicho 
+derecho.
+La jurisprudencia constitucional también ha avalado este esquema de concurrencia 
+competencial. La Sentencia clave a estos efectos es la Sentencia del Tribunal 
+Constitucional 152/1988, de 20 de julio, que tuvo como objeto de análisis uno de los 
+planes de vivienda estatales de protección pública a la vivienda y que amparó la 
+dinámica de dichos planes. Dicha Sentencia, al lado de otras posteriores, han 
+mantenido, en lo básico, el esquema inicial del Tribunal Constitucional, que amparó la
 
- Query: ¿Qué entidades participan en este acuerdo y qué rol tiene cada una?
- Time: 0.019 s
-Cosine similarity : 0.514
-Coverage: 0.25
+ Query: ¿Qué dice sobre los plazos?
+ Time: 0.016 s
+Cosine similarity : 0.4507
+Coverage: 0.2
 Most similar fragment:
-contenidas en el mismo, ya sea por su complejidad de gestión o por la naturaleza de lo 
-conveniado entre las partes.
-Artículo 21. Órganos de Cooperación en materia de vivienda y suelo.
-Se establecen los siguientes órganos de cooperación en materia de vivienda y suelo:
-a) Conferencia Sectorial de Vivienda y Suelo: es el máximo órgano de cooperación 
-de estas materias entre el Estado, las comunidades autónomas y las ciudades de Ceuta 
-y Melilla. Se reunirá al menos una vez al año y será presidida por el titular del Ministerio 
-de Transportes, Movilidad y Agenda Urbana.
-b) Comisión Multilateral de Vivienda y Suelo: Será presidida por el titular de la 
-Secretaría General de Agenda Urbana y Vivienda, y reunirá a los titulares de las 
-Direcciones Generales competentes en estas materias. Se reunirá al menos una vez al 
+Nueve. Se modifica el apartado 1 del artículo 704, que queda redactado como sigue:
+«1. Cuando el inmueble cuya posesión se deba entregar fuera vivienda 
+habitual del ejecutado o de quienes de él dependan, el Letrado de la 
+Administración de Justicia les dará un plazo de un mes para desalojarlo. De existir 
+motivo fundado, podrá prorrogarse dicho plazo un mes más.
+Transcurridos los plazos señalados, se procederá de inmediato al lanzamiento, 
+fijándose día y hora exacta de éste tanto en la resolución inicial como en la que 
+acuerde la prórroga o en cualquier resolución ulterior que acuerde el lanzamiento, 
+aunque este se haya intentado practicar con anterioridad.»
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 124 Jueves 25 de mayo de 2023 Sec. I.   Pág. 71534
+cve: BOE-A-2023-12203
+Verificable en https://www.boe.es
+
+ Query: ¿Qué organismos participan?
+ Time: 0.013 s
+Cosine similarity : 0.4839
+Coverage: 0.0
+Most similar fragment:
 año, y en ella se evaluará el cumplimiento de los acuerdos y directrices emanados de la 
 Conferencia Sectorial, y se propondrán los asuntos que se acuerden elevar a ese 
-Órgano
+Órgano.
+c) Comisiones Bilaterales de Vivienda y Suelo: reunirán a las Direcciones 
+Generales competentes del Estado y cada comunidad autónoma o ciudad de Ceuta y 
+Melilla, con el objeto de hacer seguimiento, adoptar acuerdos, o establecer criterios de 
+coordinación entre ambas administraciones.
+Artículo 22. Coordinación interministerial.
+Corresponde al Ministerio de Transportes, Movilidad y Agenda Urbana, o 
+Departamento Ministerial competente en materia de vivienda, la coordinación e impulso 
+de las iniciativas que afecten a la vivienda, la rehabilitación, regeneración y renovación 
+urbana y rural, en cooperación con otros Ministerios que pudieran abordar aspectos 
+específicos relacionados con esas materias.
+Corresponde igualmente a ese Departamento Ministerial la propuesta de estrategias
 
- Query: ¿Qué condiciones deben cumplirse para que una actuación sea elegible como subvencionable?
- Time: 0.016 s
-Cosine similarity : 0.4436
-Coverage: 0.4167
-Most similar fragment:
-objetivos generales de esta política, y específicamente, respecto a aquellas zonas 
-declaradas con arreglo a esta ley de mercado residencial tensionado:
-a) Adoptará los acuerdos necesarios que establezcan condiciones específicas en 
-cuanto al destino, tipología, destinatarios u otras especificidades en los diferentes 
-negocios patrimoniales de la Administración General del Estado y sus Organismos 
-Públicos.
-b) Analizará el patrimonio de la Administración General del Estado, y de los 
-Organismos Públicos adscritos a ella, con el objeto de identificar posibles oportunidades 
-de suelo u otros inmuebles susceptibles de reutilización para uso residencial.
-c) Promover los acuerdos necesarios entre los distintos Departamentos 
-Ministeriales, y específicamente entre el Ministerio de Transportes, Movilidad y Agenda 
-Urbana, competente en materia de política de vivienda, y los Organismos Públicos 
-competentes en la gestión patrimonial de los bienes inmuebles de los Ministerios de 
-Defensa e Inte
-
- Query: ¿Qué se establece respecto al uso del suelo o la titularidad del inmueble?
+ Query: ¿Quien tiene  la competencia plena en materia de vivienda?
  Time: 0.017 s
-Cosine similarity : 0.4932
-Coverage: 0.6667
+Cosine similarity : 0.7082
+Coverage: 0.4444
 Most similar fragment:
-d) Información jurídica del inmueble: la identificación registral de la finca, con la 
-referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
-participación fijada en el título de propiedad.
-e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
-circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
-f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
-ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
-histórico, se aportará información sobre el grado de protección y las condiciones y 
-limitaciones para las intervenciones de reforma o rehabilitación.
-g) Cualquier otra información que pueda ser relevante para la persona interesada 
-en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
-territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
-relacionados con la misma.
-2. En los mismos
+materia de vivienda, con objeto de favorecer el ejercicio del derecho constitucional en 
+todo el territorio.
+− Regular el régimen jurídico básico de los parques públicos de vivienda, 
+asegurando su desarrollo, protección y eficiencia para atender a aquellos sectores de la 
+población con mayores dificultades de acceso.
+− Favorecer el desarrollo de tipologías de vivienda adecuadas a las diferentes 
+formas de convivencia y de habitación, favoreciendo la adaptación a las dinámicas y 
+actuales exigencias de los hogares.
+− Mejorar la protección en las operaciones de compra y arrendamiento de vivienda, 
+introduciendo unos mínimos de información necesaria para dar seguridad y garantías en 
+el proceso.
+Para avanzar en el cumplimiento de estos objetivos, la ley se estructura en cinco 
+títulos y contiene 36 artículos, seis disposiciones adicionales, cuatro disposiciones 
+transitorias, una disposición derogatoria y nueve disposiciones finales.
 
- Query: ¿Cuál es la duración prevista del convenio y cómo puede renovarse?
+ Query: ¿Qué dice sobre la sostenibilidad?
  Time: 0.014 s
-Cosine similarity : 0.5296
-Coverage: 0.2727
+Cosine similarity : 0.4802
+Coverage: 0.2
 Most similar fragment:
-I. DISPOSICIONES GENERALES
-JEFATURA DEL ESTADO
-12203 Ley 12/2023, de 24 de mayo, por el derecho a la vivienda.
-FELIPE VI
-REY DE ESPAÑA
-A todos los que la presente vieren y entendieren.
-Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la 
-siguiente ley:
-ÍNDICE
-Preámbulo.
-Título preliminar. Disposiciones generales.
-Artículo 1. Objeto de la ley.
-Artículo 2. Fines de las políticas públicas de vivienda.
-Artículo 3. Definiciones.
-Artículo 4. Servicios de interés general.
-Artículo 5. Acción pública.
-Artículo 6. Principio de igualdad y no discriminación en la vivienda.
-Título I. Función social y régimen jurídico de la vivienda.
-Artículo 7. Principios rectores de la garantía de la función social de la vivienda.
-Capítulo I. Estatuto Básico del Ciudadano.
-Artículo 8. Derechos del ciudadano en relación con la vivienda.
-Artículo 9. Deberes del ciudadano en relación con la vivienda.
-Capítulo II. Régimen jurídico básico del derecho de propiedad de la vivienda.
-Artículo 10. Conteni
+emergencia habitacional por estar afectados por procedimientos de desahucio o 
+lanzamiento de su vivienda habitual, debiéndose promover su adecuado realojo y el 
+acceso a una vivienda digna y adecuada, atendiendo a sus condiciones de vulnerabilidad 
+social y económica, así como a sus circunstancias personales y familiares, reforzando 
+para ello los mecanismos de cooperación con las administraciones territoriales 
+competentes.
+4. La colaboración del Estado en estas competencias deberá considerar el 
+necesario enfoque territorial de las políticas en materia de vivienda, rehabilitación, 
+regeneración y renovación, adoptando medidas para atender las necesidades de 
+vivienda tanto en los entornos urbanos y metropolitanos como en el medio rural, en 
+municipios que puedan estar afectados por la despoblación, promoviendo programas 
+específicos con viviendas de alquiler social, asequibles y adecuadas a cada contexto 
+social, económico y territorial.
 
- Query: ¿Qué mecanismos de seguimiento o control se contemplan en el protocolo?
- Time: 0.017 s
-Cosine similarity : 0.4466
-Coverage: 0.4545
+ Query: ¿Qué dice sobre los parques públicos de vivienda?
+ Time: 0.015 s
+Cosine similarity : 0.7578
+Coverage: 0.625
 Most similar fragment:
-objetivos generales de esta política, y específicamente, respecto a aquellas zonas 
-declaradas con arreglo a esta ley de mercado residencial tensionado:
-a) Adoptará los acuerdos necesarios que establezcan condiciones específicas en 
-cuanto al destino, tipología, destinatarios u otras especificidades en los diferentes 
-negocios patrimoniales de la Administración General del Estado y sus Organismos 
-Públicos.
-b) Analizará el patrimonio de la Administración General del Estado, y de los 
-Organismos Públicos adscritos a ella, con el objeto de identificar posibles oportunidades 
-de suelo u otros inmuebles susceptibles de reutilización para uso residencial.
-c) Promover los acuerdos necesarios entre los distintos Departamentos 
-Ministeriales, y específicamente entre el Ministerio de Transportes, Movilidad y Agenda 
-Urbana, competente en materia de política de vivienda, y los Organismos Públicos 
-competentes en la gestión patrimonial de los bienes inmuebles de los Ministerios de 
-Defensa e Inte
+Los parques públicos de vivienda, regulados específicamente por la legislación 
+autonómica en materia de vivienda, urbanismo y ordenación del territorio, podrán estar 
+integrados al menos por:
+a) Las viviendas dotacionales públicas.
+b) Las viviendas sociales y protegidas construidas sobre suelo de titularidad 
+pública, así como las que lo hayan sido en ejercicio del derecho de superficie, usufructo 
+o cesión de uso y para alquiler con opción a compra, durante el tiempo en el que no se 
+active la correspondiente opción.
+c) Las viviendas sociales adquiridas por las Administraciones Públicas en ejercicio 
+de los derechos de tanteo y retracto, de conformidad con lo que disponga la legislación 
+aplicable y las adquiridas a través de esos mismos derechos, en casos de ejecución 
+hipotecaria o dación en pago de vivienda habitual de colectivos en situación de 
+vulnerabilidad o en exclusión social, tal y como prevé la legislación autonómica.
 
- Query: ¿Qué actuaciones se consideran “actuaciones protegidas” en este contexto?
- Time: 0.017 s
-Cosine similarity : 0.4689
-Coverage: 0.3333
+ Query: ¿Que presidente del Gobierno firma el documento?
+ Time: 0.012 s
+Cosine similarity : 0.5026
+Coverage: 0.2857
 Most similar fragment:
-d) Información jurídica del inmueble: la identificación registral de la finca, con la 
-referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de 
-participación fijada en el título de propiedad.
-e) En el caso de tratarse de vivienda protegida, indicación expresa de tal 
-circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
-f) En caso de edificios que cuenten oficialmente con protección arquitectónica por 
-ser parte de un entorno declarado o en razón de su particular valor arquitectónico o 
-histórico, se aportará información sobre el grado de protección y las condiciones y 
-limitaciones para las intervenciones de reforma o rehabilitación.
-g) Cualquier otra información que pueda ser relevante para la persona interesada 
-en la compra o arrendamiento de la vivienda, incluyendo los aspectos de carácter 
-territorial, urbanístico, físico-técnico, de protección patrimonial, o administrativo 
-relacionados con la misma.
-2. En los mismos
+de atención inmediata a adoptar igualmente por la Administración competente, así 
+como de las posibles ayudas económicas y subvenciones de las que pueda ser 
+beneficiaria la parte demandada.
+En caso de que estas Administraciones Públicas confirmasen que el hogar 
+afectado se encuentra en situación de vulnerabilidad económica y, en su caso, 
+social, se notificará al órgano judicial a la mayor brevedad y en todo caso en el 
+plazo máximo de diez días.
+En los casos previstos por los apartados 6 y 7 del artículo 439, cuando la parte 
+actora sea una gran tenedora de vivienda y hubiera presentado junto con la 
+demanda documento acreditativo de la vulnerabilidad de la parte demandada, en 
+el oficio a las Administraciones públicas competentes se hará constar esta 
+circunstancia a efectos de que efectúen directamente, en el mismo plazo, la 
+propuesta de medidas de atención inmediata a adoptar, así como de las posibles 
+ayudas económicas y subvenciones de las que pueda ser beneficiaria la parte
