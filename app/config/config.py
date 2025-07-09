@@ -6,7 +6,7 @@ CONFIG = {
         "add_start_index": True
     },
     "embeddings": {
-        "model_name": "all-MiniLM-L6-v2",
+        "model_name": "thenlper/gte-small",
 
     },
     # puedes añadir más secciones luego:
